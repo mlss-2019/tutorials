@@ -120,7 +120,8 @@ model = stan_utility.compile_model('student_t.stan')
 
 # 100 degrees of freedom
 data = dict(nu = 100)
-fit100 = model.sampling(data=data, seed=4838282)
+fit100 = model.sampling(data=data, seed=4838282,
+                        control=dict(metric="unit_e", stepsize=0.7, adapt_engaged=False))
 stan_utility.check_all_diagnostics(fit100)
 
 sampler_params = fit100.get_sampler_params(inc_warmup=False)
@@ -130,8 +131,7 @@ times100 = [stepsizes100[n] * x for n in range(4)
           for x in sampler_params[n]['n_leapfrog__'] ]
 energies100 = [x for y in sampler_params for x in y['energy__']]
 
-
-x0 = [x[0] for x in fit100.extract()['x']]
+x0 = fit100.extract(permuted=False)[:,:,0].flatten()
 iters, x1_mean, x1_se = compute_running_estimator(x0)
 
 plot.fill_between(iters, 
@@ -141,7 +141,7 @@ plot.fill_between(iters,
 plot.plot(iters, x1_mean, color=dark)
 plot.plot([iters[0], iters[-1]], [0, 0], color='grey', linestyle='--')
 
-plot.gca().set_xlim([0, N])
+plot.gca().set_xlim([0, 4000])
 plot.gca().set_xlabel("Iteration")
 plot.gca().set_ylim([-0.5, 0.5])
 plot.gca().set_ylabel("Monte Carlo Estimator")
@@ -150,7 +150,8 @@ plot.show()
 
 # 5 degrees of freedom
 data = dict(nu = 5)
-fit5 = model.sampling(data=data, seed=4838282)
+fit5 = model.sampling(data=data, seed=4838282, 
+                      control=dict(metric="unit_e", stepsize=0.7, adapt_engaged=False))
 stan_utility.check_all_diagnostics(fit5)
 
 sampler_params = fit5.get_sampler_params(inc_warmup=False)
@@ -162,7 +163,8 @@ energies5 = [x for y in sampler_params for x in y['energy__']]
 
 # 2 degrees of freedom -- no more component variances!
 data = dict(nu = 2)
-fit2 = model.sampling(data=data, seed=4838282)
+fit2 = model.sampling(data=data, seed=4838282,
+                      control=dict(metric="unit_e", stepsize=0.7, adapt_engaged=False))
 stan_utility.check_all_diagnostics(fit2)
 
 sampler_params = fit2.get_sampler_params(inc_warmup=False)
@@ -174,8 +176,10 @@ energies2 = [x for y in sampler_params for x in y['energy__']]
 
 # 1 degree of freedom -- no more component means or variances!
 data = dict(nu = 1)
-fit1 = model.sampling(data=data, seed=4838282)
-stan_utility.check_all_diagnostics(fit1)
+fit1 = model.sampling(data=data, seed=4838282,
+                      control=dict(metric="unit_e", stepsize=0.7, 
+                                   max_treedepth=12, adapt_engaged=False))
+stan_utility.check_all_diagnostics(fit1, 12)
 
 sampler_params = fit1.get_sampler_params(inc_warmup=False)
 stepsizes1 = [sampler_params[n]['stepsize__'][0] 
@@ -184,8 +188,7 @@ times1 = [stepsizes1[n] * x for n in range(4)
           for x in sampler_params[n]['n_leapfrog__'] ]
 energies1 = [x for y in sampler_params for x in y['energy__']]
 
-
-x0 = [x[0] for x in fit1.extract()['x']]
+x0 = fit1.extract(permuted=False)[:,:,0].flatten()
 iters, x1_mean, x1_se = compute_running_estimator(x0)
 
 plot.fill_between(iters, 
@@ -195,9 +198,9 @@ plot.fill_between(iters,
 plot.plot(iters, x1_mean, color=dark)
 plot.plot([iters[0], iters[-1]], [0, 0], color='grey', linestyle='--')
 
-plot.gca().set_xlim([0, N])
+plot.gca().set_xlim([0, 4000])
 plot.gca().set_xlabel("Iteration")
-plot.gca().set_ylim([-3, 3])
+plot.gca().set_ylim([-50, 50])
 plot.gca().set_ylabel("Monte Carlo Estimator")
 
 plot.show()
@@ -206,29 +209,29 @@ plot.show()
 f, axarr = plot.subplots(1, 4)
     
 axarr[0].set_title("nu = 100")
-axarr[0].scatter(energies100, times100, color=dark, alpha=0.1)
+axarr[0].scatter(energies100, [math.log(x) for x in times100], color=dark, alpha=0.1)
 axarr[0].set_xlim(0, 50)
 axarr[0].set_xlabel("Energy")
-axarr[0].set_ylim([0, 35])
-axarr[0].set_ylabel("Integration Time")
+axarr[0].set_ylim([0, 7])
+axarr[0].set_ylabel("Log Integration Time")
 
 axarr[1].set_title("nu = 5")
-axarr[1].scatter(energies5, times5, color=dark, alpha=0.1)
+axarr[1].scatter(energies5, [math.log(x) for x in times5], color=dark, alpha=0.1)
 axarr[1].set_xlim(0, 50)
 axarr[1].set_xlabel("Energy")
-axarr[1].set_ylim([0, 35])
+axarr[1].set_ylim([0, 7])
 
 axarr[2].set_title("nu = 2")
-axarr[2].scatter(energies2, times2, color=dark, alpha=0.1)
+axarr[2].scatter(energies2, [math.log(x) for x in times2], color=dark, alpha=0.1)
 axarr[2].set_xlim(0, 50)
 axarr[2].set_xlabel("Energy")
-axarr[2].set_ylim([0, 35])
+axarr[2].set_ylim([0, 7])
 
 axarr[3].set_title("nu = 1")
-axarr[3].scatter(energies1, times1, color=dark, alpha=0.1)
+axarr[3].scatter(energies1, [math.log(x) for x in times1], color=dark, alpha=0.1)
 axarr[3].set_xlim(0, 50)
 axarr[3].set_xlabel("Energy")
-axarr[3].set_ylim([0, 35])
+axarr[3].set_ylim([0, 7])
 
 plot.subplots_adjust(wspace=0.5)
 plot.show()
