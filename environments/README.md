@@ -40,7 +40,7 @@ machine.
 Tutorials notes
 ---------------
 
-### GP\'s
+### GP
 
 1.  `Lab1 - Sampling a GP.ipynb`
 
@@ -68,7 +68,15 @@ Tutorials notes
 
 ### RL
 
-For the `minerl` you will need to set your system java to `jdk8`. which
-will depend on your OS.
+For the `minerl` to be installed properly you will need to set your
+system java to `jdk8`. which will depend on your OS.
 
 ### MCMC
+
+### VI
+
+Best to run this in notebook. Upload the jupyter notebook
+`$TUTORIAL_DIR/MLSS2019_VAEs_exercise.ipynb` to [Google
+Colab](https://colab.research.google.com/) and run it there. There is an
+environment which *should work* but it\'s on CPU and will be
+excruciatingly slow compared to using a GPU.
