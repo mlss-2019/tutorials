@@ -75,7 +75,7 @@ system java to `jdk8`. which will depend on your OS.
 
 ### VI
 
-Best to run this in notebook. Upload the jupyter notebook
+Best to run this in colab. Upload the jupyter notebook
 `$TUTORIAL_DIR/MLSS2019_VAEs_exercise.ipynb` to [Google
 Colab](https://colab.research.google.com/) and run it there. There is an
 environment which *should work* but it\'s on CPU and will be
