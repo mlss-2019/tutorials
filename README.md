@@ -1,27 +1,27 @@
 
 # Table of Contents
 
-1.  [README](#org2bb2b7c)
-    1.  [How to read this README](#orgae61f65)
+1.  [README](#orgbe6c608)
+    1.  [How to read this README](#orge73d1e7)
     2.  [Docker](#Docker-heading)
-        1.  [Install Docker](#orgba82d9a)
-        2.  [Pull MLSS docker image](#org166488a)
+        1.  [Install Docker](#org635209c)
+        2.  [Pull MLSS docker image](#org00d5d0f)
         3.  [Run docker image with Jupyter](#Docker-jupyter-heading)
     3.  [Conda](#Conda-heading)
-    4.  [Tutorials](#org914e8b6)
-        1.  [Deep Learning](#org62de496)
-        2.  [Optimization](#orgf3b81a4)
-        3.  [Variational Inference](#orga41ae0b)
-        4.  [Reinforcement Learning](#org1073393)
-        5.  [Gaussian Processes](#orgce7e441)
-        6.  [Kernels](#org8c25732)
-        7.  [Markov Chain Monte Carlo](#org43f6d5c)
-        8.  [Approximate Bayesian Computation](#org379f195)
-        9.  [Speech Processing](#org5f689cc)
-        10. [ML in Computational Biology](#org639b6b3)
+    4.  [Tutorials](#org1301ded)
+        1.  [Deep Learning](#org8f4e9ab)
+        2.  [Optimization](#org8f61390)
+        3.  [Variational Inference](#org1f35b2f)
+        4.  [Reinforcement Learning](#orgaa51707)
+        5.  [Gaussian Processes](#org009e411)
+        6.  [Kernels](#org32edf3c)
+        7.  [Markov Chain Monte Carlo](#org3a3f788)
+        8.  [Approximate Bayesian Computation](#org368e6fa)
+        9.  [Speech Processing](#orgcef6f14)
+        10. [ML in Computational Biology](#org76a2142)
 
 
-<a id="org2bb2b7c"></a>
+<a id="orgbe6c608"></a>
 
 # README
 
@@ -47,7 +47,7 @@ technical issues to minimum.
 This means we will get more time for the actual content!
 
 
-<a id="orgae61f65"></a>
+<a id="orge73d1e7"></a>
 
 ## How to read this README
 
@@ -68,7 +68,7 @@ tutorials which you will be access through `localhost:8888` in your browser
 after you follow the guide below.
 
 
-<a id="orgba82d9a"></a>
+<a id="org635209c"></a>
 
 ### Install Docker
 
@@ -83,7 +83,12 @@ channel or ping me (@Isak Falk) anywhere on the MLSS2019 Slack :)
         -   [Linux (general)](https://docs.docker.com/v17.12/install/#server)
     -   [OSX / Mac](https://docs.docker.com/v17.12/docker-for-mac/install/#what-to-know-before-you-install)
     -   [Windows](https://docs.docker.com/v17.12/docker-for-windows/install/)
-2.  Make sure Docker works
+2.  Add your user to the docker group by running
+    
+        sudo usermod -a -G docker $USER
+    
+    in a terminal. This will enable you to run `docker` commands without using `sudo`.
+3.  Make sure Docker works
     -   **Command line / terminal:** In a terminal run `docker run hello-world`, this will give an
         output similar to this
     -   **Application:** Make sure the Docker application is installed and that you
@@ -91,7 +96,7 @@ channel or ping me (@Isak Falk) anywhere on the MLSS2019 Slack :)
         on your system)
 
 
-<a id="org166488a"></a>
+<a id="org00d5d0f"></a>
 
 ### Pull MLSS docker image
 
@@ -112,7 +117,7 @@ large (3gb compressed, 7gb uncompressed), this is normal, don't worry about it.
 In order to get jupyter working, do the following from a terminal (note: this is
 how I do it on Linux, let me know if we need to do it another way on another platform)
 
-1.  Run `sudo docker run -p 8888:8888 isakfalk/mlss`, this will start the image
+1.  Run `docker run -p 8888:8888 isakfalk/mlss`, this will start the image
     we pulled (`isakfalk/mlss`) and forward the port 8888 us on port 8888.
 2.  You should see the following in your terminal
     ![img](./img/docker_jupyter_notebook.png)
@@ -146,26 +151,26 @@ You should now be in the conda environment and can run the necessay files (e.g.
 Alternatively, this could be done from the anaconda application directly.
 
 
-<a id="org914e8b6"></a>
+<a id="org1301ded"></a>
 
 ## Tutorials
 
 
-<a id="org62de496"></a>
+<a id="org8f4e9ab"></a>
 
 ### Deep Learning
 
 TODO
 
 
-<a id="orgf3b81a4"></a>
+<a id="org8f61390"></a>
 
 ### Optimization
 
 TODO
 
 
-<a id="orga41ae0b"></a>
+<a id="org1f35b2f"></a>
 
 ### Variational Inference
 
@@ -177,7 +182,7 @@ If you want / need to run it locally, see [Docker](#Docker-heading), or go direc
 jupyter with docker](#Docker-jupyter-heading) if you have already installed and pulled the docker image.
 
 
-<a id="org1073393"></a>
+<a id="orgaa51707"></a>
 
 ### Reinforcement Learning
 
@@ -185,7 +190,7 @@ See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker
 installed and pulled the docker image.
 
 
-<a id="orgce7e441"></a>
+<a id="org009e411"></a>
 
 ### Gaussian Processes
 
@@ -213,14 +218,14 @@ installed and pulled the docker image.
     See [Lab1](#GP-lab1-heading)
 
 
-<a id="org8c25732"></a>
+<a id="org32edf3c"></a>
 
 ### Kernels
 
 TODO
 
 
-<a id="org43f6d5c"></a>
+<a id="org3a3f788"></a>
 
 ### Markov Chain Monte Carlo
 
@@ -231,21 +236,21 @@ using
     python $TUTORIAL_NAME.py
 
 
-<a id="org379f195"></a>
+<a id="org368e6fa"></a>
 
 ### Approximate Bayesian Computation
 
 TODO
 
 
-<a id="org5f689cc"></a>
+<a id="orgcef6f14"></a>
 
 ### Speech Processing
 
 TODO
 
 
-<a id="org639b6b3"></a>
+<a id="org76a2142"></a>
 
 ### ML in Computational Biology
 
