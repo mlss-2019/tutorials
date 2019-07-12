@@ -1,27 +1,27 @@
 
 # Table of Contents
 
-1.  [README](#org092899a)
-    1.  [How to read this README](#org56d1190)
+1.  [README](#org2bb2b7c)
+    1.  [How to read this README](#orgae61f65)
     2.  [Docker](#Docker-heading)
-        1.  [Install Docker](#orgdfd221c)
-        2.  [Pull MLSS docker image](#orgcb96072)
+        1.  [Install Docker](#orgba82d9a)
+        2.  [Pull MLSS docker image](#org166488a)
         3.  [Run docker image with Jupyter](#Docker-jupyter-heading)
     3.  [Conda](#Conda-heading)
-    4.  [Tutorials](#org32320ba)
-        1.  [Deep Learning](#org56d5b6b)
-        2.  [Optimization](#orgdb81c4f)
-        3.  [Variational Inference](#org50bd4f2)
-        4.  [Reinforcement Learning](#orgcd4c380)
-        5.  [Gaussian Processes](#orge43dde3)
-        6.  [Kernels](#org2251070)
-        7.  [Markov Chain Monte Carlo](#org02c0e42)
-        8.  [Approximate Bayesian Computation](#org832038b)
-        9.  [Speech Processing](#orgb5169ca)
-        10. [ML in Computational Biology](#org32b31ce)
+    4.  [Tutorials](#org914e8b6)
+        1.  [Deep Learning](#org62de496)
+        2.  [Optimization](#orgf3b81a4)
+        3.  [Variational Inference](#orga41ae0b)
+        4.  [Reinforcement Learning](#org1073393)
+        5.  [Gaussian Processes](#orgce7e441)
+        6.  [Kernels](#org8c25732)
+        7.  [Markov Chain Monte Carlo](#org43f6d5c)
+        8.  [Approximate Bayesian Computation](#org379f195)
+        9.  [Speech Processing](#org5f689cc)
+        10. [ML in Computational Biology](#org639b6b3)
 
 
-<a id="org092899a"></a>
+<a id="org2bb2b7c"></a>
 
 # README
 
@@ -47,7 +47,7 @@ technical issues to minimum.
 This means we will get more time for the actual content!
 
 
-<a id="org56d1190"></a>
+<a id="orgae61f65"></a>
 
 ## How to read this README
 
@@ -68,7 +68,7 @@ tutorials which you will be access through `localhost:8888` in your browser
 after you follow the guide below.
 
 
-<a id="orgdfd221c"></a>
+<a id="orgba82d9a"></a>
 
 ### Install Docker
 
@@ -86,13 +86,12 @@ channel or ping me (@Isak Falk) anywhere on the MLSS2019 Slack :)
 2.  Make sure Docker works
     -   **Command line / terminal:** In a terminal run `docker run hello-world`, this will give an
         output similar to this
-        
-        -   **Application:** Make sure the Docker application is installed and that you
-            can find the icon when you search for it (this will depend
-            on your system)
+    -   **Application:** Make sure the Docker application is installed and that you
+        can find the icon when you search for it (this will depend
+        on your system)
 
 
-<a id="orgcb96072"></a>
+<a id="org166488a"></a>
 
 ### Pull MLSS docker image
 
@@ -147,26 +146,26 @@ You should now be in the conda environment and can run the necessay files (e.g.
 Alternatively, this could be done from the anaconda application directly.
 
 
-<a id="org32320ba"></a>
+<a id="org914e8b6"></a>
 
 ## Tutorials
 
 
-<a id="org56d5b6b"></a>
+<a id="org62de496"></a>
 
 ### Deep Learning
 
 TODO
 
 
-<a id="orgdb81c4f"></a>
+<a id="orgf3b81a4"></a>
 
 ### Optimization
 
 TODO
 
 
-<a id="org50bd4f2"></a>
+<a id="orga41ae0b"></a>
 
 ### Variational Inference
 
@@ -178,7 +177,7 @@ If you want / need to run it locally, see [Docker](#Docker-heading), or go direc
 jupyter with docker](#Docker-jupyter-heading) if you have already installed and pulled the docker image.
 
 
-<a id="orgcd4c380"></a>
+<a id="org1073393"></a>
 
 ### Reinforcement Learning
 
@@ -186,7 +185,7 @@ See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker
 installed and pulled the docker image.
 
 
-<a id="orge43dde3"></a>
+<a id="orgce7e441"></a>
 
 ### Gaussian Processes
 
@@ -214,14 +213,14 @@ installed and pulled the docker image.
     See [Lab1](#GP-lab1-heading)
 
 
-<a id="org2251070"></a>
+<a id="org8c25732"></a>
 
 ### Kernels
 
 TODO
 
 
-<a id="org02c0e42"></a>
+<a id="org43f6d5c"></a>
 
 ### Markov Chain Monte Carlo
 
@@ -232,21 +231,21 @@ using
     python $TUTORIAL_NAME.py
 
 
-<a id="org832038b"></a>
+<a id="org379f195"></a>
 
 ### Approximate Bayesian Computation
 
 TODO
 
 
-<a id="orgb5169ca"></a>
+<a id="org5f689cc"></a>
 
 ### Speech Processing
 
 TODO
 
 
-<a id="org32b31ce"></a>
+<a id="org639b6b3"></a>
 
 ### ML in Computational Biology
 
