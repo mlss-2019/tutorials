@@ -181,7 +181,19 @@ TODO
 
 ### Optimization
 
-TODO
+To run the Optimization notebooks, you'll need to install
+[Julia](https://julialang.org/) (to run locally). You'll need to have a recent
+version of Python installed (3.x), and it's easiest if this is from
+the Anaconda distribution. I'll assume you have this.
+
+For Julia, you'll need to install some packages as well to run things.
+From a Julia terminal, execute the following code:
+```julia
+using Pkg
+Pkg.add("Distributions");
+Pkg.add("SpecialFunctions");
+Pkg.add("PyPlot");
+```
 
 
 <a id="org5157582"></a>
