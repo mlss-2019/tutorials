@@ -195,6 +195,11 @@ Pkg.add("SpecialFunctions");
 Pkg.add("PyPlot");
 ```
 
+Alternatively you can set up a Docker image for this tutorial. Follow the installation instruction at this [link](https://github.com/QuantumObject/docker-ijulia). You can mount a local folder as a subdirectory in the image you run with the `-v` option:
+
+```shell
+docker run -v `pwd`:/root/mlss -d -p 8998:8998 quantumobject/docker-ijulia
+```
 
 <a id="org5f98eca"></a>
 
