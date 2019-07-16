@@ -181,6 +181,14 @@ TODO
 
 ### Optimization
 
+#### Docker
+See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already
+installed and pulled the docker image.
+
+There will be a kernel called `Julia 1.1.1` which you will have to choose.
+
+#### Locally
+
 To run the Optimization notebooks, you'll need to install
 [Julia](https://julialang.org/) (to run locally). An easy guide to follow can be found [here](https://datatofish.com/add-julia-to-jupyter/). You'll need to have a recent
 version of Python installed (3.x), and it's easiest if this is from
@@ -194,7 +202,6 @@ Pkg.add("Distributions");
 Pkg.add("SpecialFunctions");
 Pkg.add("PyPlot");
 ```
-
 
 <a id="org5f98eca"></a>
 
