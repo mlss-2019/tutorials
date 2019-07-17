@@ -174,8 +174,13 @@ Alternatively, this could be done from the anaconda application directly.
 
 ### Deep Learning
 
-TODO
+#### Colab
+Running the notebooks in [colab](https://colab.research.google.com/) gives you access to GPU which will be good to have. They run out of the box since the colab has all the needed libraries pre-installed.
 
+#### Docker
+See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading** if you have already installed and pulled the docker image.
+
+**NOTE**: the docker image is getting very big. I have provided a new image which you can pull using `docker pull isakfalk/mlss_dl` and then follow the guide as before.
 
 <a id="org294e330"></a>
 
