@@ -227,6 +227,17 @@ jupyter with docker](#Docker-jupyter-heading) if you have already installed and 
 See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already
 installed and pulled the docker image.
 
+If you are using docker, don't run the following cells
+```python
+# install required packages
+!pip install --upgrade chainer opencv-python gym matplotlib==3.0.3 numpy
+```
+
+```python
+# uncomment to install minerl
+!pip install --upgrade minerl
+```
+since the conda kernel already has these packages installed.
 
 <a id="org09a591d"></a>
 
