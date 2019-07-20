@@ -5,12 +5,13 @@ web: luigicarratino.com
 
 import numpy as np
 
-def FALKON(X, Y, M, KernelMatrix, lam, t):
+def FALKON(X, Y, M, KernelMatrix, lam, t, verbose=False):
     n = X.shape[0]
     # select Nystrom centers uniformly at random
     nys_idxs = np.random.permutation(n)[0:M]
     C = X[nys_idxs, :]
-    print('Computing preconditioner')
+    if verbose:
+        print('Computing preconditioner')
     KMM = KernelMatrix(C,C)
     T = np.linalg.cholesky(KMM + M*np.eye(M))
     A = np.linalg.cholesky(T.dot(T.T)/M + lam*np.eye(M))
@@ -33,7 +34,8 @@ def FALKON(X, Y, M, KernelMatrix, lam, t):
         rsold = r.T.dot(r)
         beta = np.zeros((r.shape[0], 1))
         for i in range(tmax):
-            print(f'Iteration {i+1} out of {tmax}')
+            if verbose:
+                print(f'Iteration {i+1} out of {tmax}')
             Ap = funA(p)
             a = rsold/(p.T.dot(Ap) + eps)
             beta = beta + a*p
@@ -42,9 +44,9 @@ def FALKON(X, Y, M, KernelMatrix, lam, t):
             p = r + (rsnew/rsold)*p
             rsold = rsnew
         return beta
-    
-    print('Starting CG iterations')
-    print(KnMtimesVector(np.zeros((M,1)), Y/n).shape)
+
+    if verbose:
+        print('Starting CG iterations')
     r = np.linalg.solve(A.T, np.linalg.solve(T.T, KnMtimesVector(np.zeros((M,1)), Y/n)))
     beta = conjgrad(BHB, r, t);
     alpha = np.linalg.solve(T, np.linalg.solve(A,beta));
