@@ -1,0 +1,1100 @@
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/56a.wav", "text": ["5", "6"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/95a.wav", "text": ["9", "5"], "duration": 22528}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/41a.wav", "text": ["4", "1"], "duration": 25600}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/78a.wav", "text": ["7", "8"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/o3a.wav", "text": ["0", "3"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/o5a.wav", "text": ["0", "5"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/25a.wav", "text": ["2", "5"], "duration": 28928}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/o8a.wav", "text": ["0", "8"], "duration": 17408}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/32a.wav", "text": ["3", "2"], "duration": 21248}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/le/69a.wav", "text": ["6", "9"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/11a.wav", "text": ["1", "1"], "duration": 33024}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/26a.wav", "text": ["2", "6"], "duration": 38656}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/47a.wav", "text": ["4", "7"], "duration": 36864}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/42a.wav", "text": ["4", "2"], "duration": 32256}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/1oa.wav", "text": ["1", "0"], "duration": 29440}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/65a.wav", "text": ["6", "5"], "duration": 55296}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/53a.wav", "text": ["5", "3"], "duration": 38144}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hm/ooa.wav", "text": ["0", "0"], "duration": 33536}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/56a.wav", "text": ["5", "6"], "duration": 27648}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/17a.wav", "text": ["1", "7"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/83a.wav", "text": ["8", "3"], "duration": 22528}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/57a.wav", "text": ["5", "7"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/97a.wav", "text": ["9", "7"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/91a.wav", "text": ["9", "1"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/o5a.wav", "text": ["0", "5"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/12a.wav", "text": ["1", "2"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ib/28a.wav", "text": ["2", "8"], "duration": 18432}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/93a.wav", "text": ["9", "3"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/83a.wav", "text": ["8", "3"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/94a.wav", "text": ["9", "4"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/42a.wav", "text": ["4", "2"], "duration": 21248}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/o2a.wav", "text": ["0", "2"], "duration": 19456}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/59a.wav", "text": ["5", "9"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/6oa.wav", "text": ["6", "0"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/24a.wav", "text": ["2", "4"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/ooa.wav", "text": ["0", "0"], "duration": 30720}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fs/69a.wav", "text": ["6", "9"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/88a.wav", "text": ["8", "8"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/81a.wav", "text": ["8", "1"], "duration": 26624}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/39a.wav", "text": ["3", "9"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/42a.wav", "text": ["4", "2"], "duration": 29184}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/54a.wav", "text": ["5", "4"], "duration": 23040}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/59a.wav", "text": ["5", "9"], "duration": 21248}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/75a.wav", "text": ["7", "5"], "duration": 30208}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/29a.wav", "text": ["2", "9"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fh/65a.wav", "text": ["6", "5"], "duration": 27136}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/7oa.wav", "text": ["7", "0"], "duration": 20992}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/14a.wav", "text": ["1", "4"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/79a.wav", "text": ["7", "9"], "duration": 30208}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/63a.wav", "text": ["6", "3"], "duration": 28672}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/29a.wav", "text": ["2", "9"], "duration": 28160}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/64a.wav", "text": ["6", "4"], "duration": 27648}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/53a.wav", "text": ["5", "3"], "duration": 21248}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/at/69a.wav", "text": ["6", "9"], "duration": 31488}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/46a.wav", "text": ["4", "6"], "duration": 33024}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/88a.wav", "text": ["8", "8"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/41a.wav", "text": ["4", "1"], "duration": 31232}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/62a.wav", "text": ["6", "2"], "duration": 25600}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/34a.wav", "text": ["3", "4"], "duration": 27648}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/87a.wav", "text": ["8", "7"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/53a.wav", "text": ["5", "3"], "duration": 26112}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gs/69a.wav", "text": ["6", "9"], "duration": 29952}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/66a.wav", "text": ["6", "6"], "duration": 32512}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/47a.wav", "text": ["4", "7"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/21a.wav", "text": ["2", "1"], "duration": 22528}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/9oa.wav", "text": ["9", "0"], "duration": 25344}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/57a.wav", "text": ["5", "7"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/58a.wav", "text": ["5", "8"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/91a.wav", "text": ["9", "1"], "duration": 26880}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/25a.wav", "text": ["2", "5"], "duration": 27392}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ia/ooa.wav", "text": ["0", "0"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/56a.wav", "text": ["5", "6"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/35a.wav", "text": ["3", "5"], "duration": 20480}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/58a.wav", "text": ["5", "8"], "duration": 18432}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/39a.wav", "text": ["3", "9"], "duration": 19200}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/14a.wav", "text": ["1", "4"], "duration": 19712}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/63a.wav", "text": ["6", "3"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/68a.wav", "text": ["6", "8"], "duration": 19200}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/o5a.wav", "text": ["0", "5"], "duration": 19200}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/52a.wav", "text": ["5", "2"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/be/o4a.wav", "text": ["0", "4"], "duration": 18688}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/11a.wav", "text": ["1", "1"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/77a.wav", "text": ["7", "7"], "duration": 30720}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/23a.wav", "text": ["2", "3"], "duration": 28160}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/74a.wav", "text": ["7", "4"], "duration": 31744}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/97a.wav", "text": ["9", "7"], "duration": 29440}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/34a.wav", "text": ["3", "4"], "duration": 29696}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/75a.wav", "text": ["7", "5"], "duration": 29440}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/87a.wav", "text": ["8", "7"], "duration": 25600}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/6oa.wav", "text": ["6", "0"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fm/69a.wav", "text": ["6", "9"], "duration": 30976}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/46a.wav", "text": ["4", "6"], "duration": 26624}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/93a.wav", "text": ["9", "3"], "duration": 26880}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/84a.wav", "text": ["8", "4"], "duration": 23040}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/98a.wav", "text": ["9", "8"], "duration": 26624}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/35a.wav", "text": ["3", "5"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/58a.wav", "text": ["5", "8"], "duration": 25344}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/14a.wav", "text": ["1", "4"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/72a.wav", "text": ["7", "2"], "duration": 26880}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cp/ooa.wav", "text": ["0", "0"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/93a.wav", "text": ["9", "3"], "duration": 30976}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/66a.wav", "text": ["6", "6"], "duration": 41472}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/94a.wav", "text": ["9", "4"], "duration": 29696}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/16a.wav", "text": ["1", "6"], "duration": 30208}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/19a.wav", "text": ["1", "9"], "duration": 30208}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/96a.wav", "text": ["9", "6"], "duration": 29184}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/68a.wav", "text": ["6", "8"], "duration": 31744}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pg/87a.wav", "text": ["8", "7"], "duration": 28160}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/88a.wav", "text": ["8", "8"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/o6a.wav", "text": ["0", "6"], "duration": 29696}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/35a.wav", "text": ["3", "5"], "duration": 36608}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/18a.wav", "text": ["1", "8"], "duration": 34560}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/22a.wav", "text": ["2", "2"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/44a.wav", "text": ["4", "4"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/49a.wav", "text": ["4", "9"], "duration": 33792}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/32a.wav", "text": ["3", "2"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/65a.wav", "text": ["6", "5"], "duration": 37120}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fg/69a.wav", "text": ["6", "9"], "duration": 34816}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/66a.wav", "text": ["6", "6"], "duration": 25600}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/84a.wav", "text": ["8", "4"], "duration": 26112}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/41a.wav", "text": ["4", "1"], "duration": 20480}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/77a.wav", "text": ["7", "7"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/5oa.wav", "text": ["5", "0"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/79a.wav", "text": ["7", "9"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/96a.wav", "text": ["9", "6"], "duration": 25344}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/72a.wav", "text": ["7", "2"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/49a.wav", "text": ["4", "9"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ce/28a.wav", "text": ["2", "8"], "duration": 17920}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/66a.wav", "text": ["6", "6"], "duration": 39936}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/26a.wav", "text": ["2", "6"], "duration": 41728}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/16a.wav", "text": ["1", "6"], "duration": 32256}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/22a.wav", "text": ["2", "2"], "duration": 31232}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/91a.wav", "text": ["9", "1"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/72a.wav", "text": ["7", "2"], "duration": 27136}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/33a.wav", "text": ["3", "3"], "duration": 44032}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/ooa.wav", "text": ["0", "0"], "duration": 29184}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fa/o4a.wav", "text": ["0", "4"], "duration": 28672}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/46a.wav", "text": ["4", "6"], "duration": 29440}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/27a.wav", "text": ["2", "7"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/51a.wav", "text": ["5", "1"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/76a.wav", "text": ["7", "6"], "duration": 29184}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/94a.wav", "text": ["9", "4"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/74a.wav", "text": ["7", "4"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/75a.wav", "text": ["7", "5"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/6oa.wav", "text": ["6", "0"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bm/65a.wav", "text": ["6", "5"], "duration": 29696}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ja/o1a.wav", "text": ["0", "1"], "duration": 20480}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ja/58a.wav", "text": ["5", "8"], "duration": 20992}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ja/44a.wav", "text": ["4", "4"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ja/73a.wav", "text": ["7", "3"], "duration": 27392}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ja/12a.wav", "text": ["1", "2"], "duration": 19456}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/8oa.wav", "text": ["8", "0"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/23a.wav", "text": ["2", "3"], "duration": 22528}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/o2a.wav", "text": ["0", "2"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/63a.wav", "text": ["6", "3"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/22a.wav", "text": ["2", "2"], "duration": 54272}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/87a.wav", "text": ["8", "7"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/72a.wav", "text": ["7", "2"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/33a.wav", "text": ["3", "3"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/tc/73a.wav", "text": ["7", "3"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/66a.wav", "text": ["6", "6"], "duration": 28416}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/84a.wav", "text": ["8", "4"], "duration": 27392}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/17a.wav", "text": ["1", "7"], "duration": 28672}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/35a.wav", "text": ["3", "5"], "duration": 31744}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/42a.wav", "text": ["4", "2"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/79a.wav", "text": ["7", "9"], "duration": 30464}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/2oa.wav", "text": ["2", "0"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/ooa.wav", "text": ["0", "0"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gw/69a.wav", "text": ["6", "9"], "duration": 36864}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/47a.wav", "text": ["4", "7"], "duration": 23552}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/98a.wav", "text": ["9", "8"], "duration": 19968}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/23a.wav", "text": ["2", "3"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/97a.wav", "text": ["9", "7"], "duration": 23552}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/o3a.wav", "text": ["0", "3"], "duration": 20992}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/14a.wav", "text": ["1", "4"], "duration": 23296}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/43a.wav", "text": ["4", "3"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/3oa.wav", "text": ["3", "0"], "duration": 34816}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/dj/ooa.wav", "text": ["0", "0"], "duration": 19456}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/71a.wav", "text": ["7", "1"], "duration": 29952}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/8oa.wav", "text": ["8", "0"], "duration": 28928}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/99a.wav", "text": ["9", "9"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/36a.wav", "text": ["3", "6"], "duration": 30208}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/44a.wav", "text": ["4", "4"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/25a.wav", "text": ["2", "5"], "duration": 27392}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/49a.wav", "text": ["4", "9"], "duration": 29184}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/32a.wav", "text": ["3", "2"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/im/24a.wav", "text": ["2", "4"], "duration": 26368}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/31a.wav", "text": ["3", "1"], "duration": 17408}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/92a.wav", "text": ["9", "2"], "duration": 19968}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/61a.wav", "text": ["6", "1"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/7oa.wav", "text": ["7", "0"], "duration": 23040}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/14a.wav", "text": ["1", "4"], "duration": 18432}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/25a.wav", "text": ["2", "5"], "duration": 19968}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ip/12a.wav", "text": ["1", "2"], "duration": 19200}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/93a.wav", "text": ["9", "3"], "duration": 27392}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/66a.wav", "text": ["6", "6"], "duration": 33280}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/37a.wav", "text": ["3", "7"], "duration": 23552}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/61a.wav", "text": ["6", "1"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/81a.wav", "text": ["8", "1"], "duration": 22528}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/34a.wav", "text": ["3", "4"], "duration": 28416}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/52a.wav", "text": ["5", "2"], "duration": 28672}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/72a.wav", "text": ["7", "2"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ed/ooa.wav", "text": ["0", "0"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/89a.wav", "text": ["8", "9"], "duration": 21248}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/67a.wav", "text": ["6", "7"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/76a.wav", "text": ["7", "6"], "duration": 26112}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/21a.wav", "text": ["2", "1"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/41a.wav", "text": ["4", "1"], "duration": 22016}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/58a.wav", "text": ["5", "8"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/54a.wav", "text": ["5", "4"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bc/75a.wav", "text": ["7", "5"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/85a.wav", "text": ["8", "5"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/66a.wav", "text": ["6", "6"], "duration": 28928}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/47a.wav", "text": ["4", "7"], "duration": 23296}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/51a.wav", "text": ["5", "1"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/99a.wav", "text": ["9", "9"], "duration": 29440}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/97a.wav", "text": ["9", "7"], "duration": 23296}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/o3a.wav", "text": ["0", "3"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/63a.wav", "text": ["6", "3"], "duration": 27136}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hr/49a.wav", "text": ["4", "9"], "duration": 26112}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/27a.wav", "text": ["2", "7"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/71a.wav", "text": ["7", "1"], "duration": 30720}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/37a.wav", "text": ["3", "7"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/16a.wav", "text": ["1", "6"], "duration": 30976}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/35a.wav", "text": ["3", "5"], "duration": 28672}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/38a.wav", "text": ["3", "8"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/22a.wav", "text": ["2", "2"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/68a.wav", "text": ["6", "8"], "duration": 23040}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/df/ooa.wav", "text": ["0", "0"], "duration": 23552}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/o6a.wav", "text": ["0", "6"], "duration": 23296}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/99a.wav", "text": ["9", "9"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/57a.wav", "text": ["5", "7"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/3oa.wav", "text": ["3", "0"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/63a.wav", "text": ["6", "3"], "duration": 27136}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/44a.wav", "text": ["4", "4"], "duration": 26368}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/6oa.wav", "text": ["6", "0"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/o9a.wav", "text": ["0", "9"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/lg/24a.wav", "text": ["2", "4"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/89a.wav", "text": ["8", "9"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/26a.wav", "text": ["2", "6"], "duration": 23040}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/47a.wav", "text": ["4", "7"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/o3a.wav", "text": ["0", "3"], "duration": 23808}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/43a.wav", "text": ["4", "3"], "duration": 22784}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/3oa.wav", "text": ["3", "0"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/25a.wav", "text": ["2", "5"], "duration": 19968}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/48a.wav", "text": ["4", "8"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nt/32a.wav", "text": ["3", "2"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/11a.wav", "text": ["1", "1"], "duration": 30208}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/71a.wav", "text": ["7", "1"], "duration": 32256}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/98a.wav", "text": ["9", "8"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/42a.wav", "text": ["4", "2"], "duration": 23552}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/o3a.wav", "text": ["0", "3"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/34a.wav", "text": ["3", "4"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/87a.wav", "text": ["8", "7"], "duration": 28928}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/64a.wav", "text": ["6", "4"], "duration": 27392}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/ooa.wav", "text": ["0", "0"], "duration": 21504}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hc/86a.wav", "text": ["8", "6"], "duration": 27648}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/51a.wav", "text": ["5", "1"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/21a.wav", "text": ["2", "1"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/57a.wav", "text": ["5", "7"], "duration": 26368}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/7oa.wav", "text": ["7", "0"], "duration": 36608}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/81a.wav", "text": ["8", "1"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/o3a.wav", "text": ["0", "3"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/55a.wav", "text": ["5", "5"], "duration": 24064}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/25a.wav", "text": ["2", "5"], "duration": 25856}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/2oa.wav", "text": ["2", "0"], "duration": 22528}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/hj/ooa.wav", "text": ["0", "0"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/42a.wav", "text": ["4", "2"], "duration": 22016}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/5oa.wav", "text": ["5", "0"], "duration": 20224}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/96a.wav", "text": ["9", "6"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/59a.wav", "text": ["5", "9"], "duration": 21760}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/3oa.wav", "text": ["3", "0"], "duration": 16896}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/72a.wav", "text": ["7", "2"], "duration": 23040}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/24a.wav", "text": ["2", "4"], "duration": 19456}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/53a.wav", "text": ["5", "3"], "duration": 22016}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/12a.wav", "text": ["1", "2"], "duration": 17152}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/mi/45a.wav", "text": ["4", "5"], "duration": 19200}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/66a.wav", "text": ["6", "6"], "duration": 27904}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/47a.wav", "text": ["4", "7"], "duration": 24576}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/37a.wav", "text": ["3", "7"], "duration": 24832}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/o1a.wav", "text": ["0", "1"], "duration": 22016}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/95a.wav", "text": ["9", "5"], "duration": 24320}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/15a.wav", "text": ["1", "5"], "duration": 25088}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/o3a.wav", "text": ["0", "3"], "duration": 23552}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/38a.wav", "text": ["3", "8"], "duration": 20736}
+data/partitions/dev.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/gp/13a.wav", "text": ["1", "3"], "duration": 20992}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/56a.wav", "text": ["5", "6"], "duration": 24576}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/3oa.wav", "text": ["3", "0"], "duration": 19200}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/63a.wav", "text": ["6", "3"], "duration": 21760}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/o9a.wav", "text": ["0", "9"], "duration": 20736}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/65a.wav", "text": ["6", "5"], "duration": 22784}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/73a.wav", "text": ["7", "3"], "duration": 27904}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ah/69a.wav", "text": ["6", "9"], "duration": 22272}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/16a.wav", "text": ["1", "6"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/35a.wav", "text": ["3", "5"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/19a.wav", "text": ["1", "9"], "duration": 21760}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/o3a.wav", "text": ["0", "3"], "duration": 22016}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/5oa.wav", "text": ["5", "0"], "duration": 30464}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/91a.wav", "text": ["9", "1"], "duration": 24832}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/o4a.wav", "text": ["0", "4"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ar/28a.wav", "text": ["2", "8"], "duration": 27392}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/67a.wav", "text": ["6", "7"], "duration": 27392}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/62a.wav", "text": ["6", "2"], "duration": 22784}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/15a.wav", "text": ["1", "5"], "duration": 24832}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/5oa.wav", "text": ["5", "0"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/43a.wav", "text": ["4", "3"], "duration": 24064}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/34a.wav", "text": ["3", "4"], "duration": 23040}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/3oa.wav", "text": ["3", "0"], "duration": 21248}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/52a.wav", "text": ["5", "2"], "duration": 23040}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/bn/53a.wav", "text": ["5", "3"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/66a.wav", "text": ["6", "6"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/26a.wav", "text": ["2", "6"], "duration": 25344}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/71a.wav", "text": ["7", "1"], "duration": 30208}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/17a.wav", "text": ["1", "7"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/41a.wav", "text": ["4", "1"], "duration": 22528}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/59a.wav", "text": ["5", "9"], "duration": 21760}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/3oa.wav", "text": ["3", "0"], "duration": 28160}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/25a.wav", "text": ["2", "5"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/cc/73a.wav", "text": ["7", "3"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/o7a.wav", "text": ["0", "7"], "duration": 26368}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/85a.wav", "text": ["8", "5"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/97a.wav", "text": ["9", "7"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/o3a.wav", "text": ["0", "3"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/5oa.wav", "text": ["5", "0"], "duration": 26368}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/1oa.wav", "text": ["1", "0"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/22a.wav", "text": ["2", "2"], "duration": 27904}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/72a.wav", "text": ["7", "2"], "duration": 29184}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/24a.wav", "text": ["2", "4"], "duration": 23296}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ef/ooa.wav", "text": ["0", "0"], "duration": 25856}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/o7a.wav", "text": ["0", "7"], "duration": 30464}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/67a.wav", "text": ["6", "7"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/37a.wav", "text": ["3", "7"], "duration": 28160}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/62a.wav", "text": ["6", "2"], "duration": 26880}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/43a.wav", "text": ["4", "3"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/52a.wav", "text": ["5", "2"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/64a.wav", "text": ["6", "4"], "duration": 28672}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/48a.wav", "text": ["4", "8"], "duration": 24832}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/32a.wav", "text": ["3", "2"], "duration": 27648}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/73a.wav", "text": ["7", "3"], "duration": 32512}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/et/2oa.wav", "text": ["2", "0"], "duration": 28672}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/94a.wav", "text": ["9", "4"], "duration": 22784}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/41a.wav", "text": ["4", "1"], "duration": 20480}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/35a.wav", "text": ["3", "5"], "duration": 20480}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/1oa.wav", "text": ["1", "0"], "duration": 20224}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/34a.wav", "text": ["3", "4"], "duration": 19968}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/29a.wav", "text": ["2", "9"], "duration": 19456}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/12a.wav", "text": ["1", "2"], "duration": 17664}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/45a.wav", "text": ["4", "5"], "duration": 20992}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fp/69a.wav", "text": ["6", "9"], "duration": 18944}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/o7a.wav", "text": ["0", "7"], "duration": 22528}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/95a.wav", "text": ["9", "5"], "duration": 22784}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/16a.wav", "text": ["1", "6"], "duration": 28928}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/43a.wav", "text": ["4", "3"], "duration": 22016}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/63a.wav", "text": ["6", "3"], "duration": 27392}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/22a.wav", "text": ["2", "2"], "duration": 18432}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/fr/25a.wav", "text": ["2", "5"], "duration": 20736}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/11a.wav", "text": ["1", "1"], "duration": 23296}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/26a.wav", "text": ["2", "6"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/51a.wav", "text": ["5", "1"], "duration": 29440}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/41a.wav", "text": ["4", "1"], "duration": 28416}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/77a.wav", "text": ["7", "7"], "duration": 32000}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/81a.wav", "text": ["8", "1"], "duration": 32768}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/75a.wav", "text": ["7", "5"], "duration": 30464}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/22a.wav", "text": ["2", "2"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ft/68a.wav", "text": ["6", "8"], "duration": 35840}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/46a.wav", "text": ["4", "6"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/17a.wav", "text": ["1", "7"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/98a.wav", "text": ["9", "8"], "duration": 27392}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/3oa.wav", "text": ["3", "0"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/75a.wav", "text": ["7", "5"], "duration": 43264}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/29a.wav", "text": ["2", "9"], "duration": 26880}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/33a.wav", "text": ["3", "3"], "duration": 22272}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/o9a.wav", "text": ["0", "9"], "duration": 22528}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ga/45a.wav", "text": ["4", "5"], "duration": 29184}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/8oa.wav", "text": ["8", "0"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/99a.wav", "text": ["9", "9"], "duration": 29696}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/62a.wav", "text": ["6", "2"], "duration": 29440}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/19a.wav", "text": ["1", "9"], "duration": 23296}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/58a.wav", "text": ["5", "8"], "duration": 26368}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/14a.wav", "text": ["1", "4"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/79a.wav", "text": ["7", "9"], "duration": 28672}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/22a.wav", "text": ["2", "2"], "duration": 21760}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/72a.wav", "text": ["7", "2"], "duration": 32768}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/jh/48a.wav", "text": ["4", "8"], "duration": 30208}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/47a.wav", "text": ["4", "7"], "duration": 28160}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/51a.wav", "text": ["5", "1"], "duration": 35328}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/99a.wav", "text": ["9", "9"], "duration": 33536}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/19a.wav", "text": ["1", "9"], "duration": 30720}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/43a.wav", "text": ["4", "3"], "duration": 28928}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/38a.wav", "text": ["3", "8"], "duration": 33280}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/32a.wav", "text": ["3", "2"], "duration": 29440}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/65a.wav", "text": ["6", "5"], "duration": 39936}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ka/ooa.wav", "text": ["0", "0"], "duration": 31744}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/89a.wav", "text": ["8", "9"], "duration": 25856}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/94a.wav", "text": ["9", "4"], "duration": 30464}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/41a.wav", "text": ["4", "1"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/62a.wav", "text": ["6", "2"], "duration": 24576}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/19a.wav", "text": ["1", "9"], "duration": 32768}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/54a.wav", "text": ["5", "4"], "duration": 27904}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ke/o5a.wav", "text": ["0", "5"], "duration": 34816}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/93a.wav", "text": ["9", "3"], "duration": 28672}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/99a.wav", "text": ["9", "9"], "duration": 26624}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/21a.wav", "text": ["2", "1"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/o1a.wav", "text": ["0", "1"], "duration": 25856}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/16a.wav", "text": ["1", "6"], "duration": 29952}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/3oa.wav", "text": ["3", "0"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/4oa.wav", "text": ["4", "0"], "duration": 22784}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/72a.wav", "text": ["7", "2"], "duration": 27392}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/24a.wav", "text": ["2", "4"], "duration": 26624}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/kg/ooa.wav", "text": ["0", "0"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/46a.wav", "text": ["4", "6"], "duration": 31744}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/17a.wav", "text": ["1", "7"], "duration": 24832}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/95a.wav", "text": ["9", "5"], "duration": 23040}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/16a.wav", "text": ["1", "6"], "duration": 28672}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/54a.wav", "text": ["5", "4"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/34a.wav", "text": ["3", "4"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/o5a.wav", "text": ["0", "5"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/72a.wav", "text": ["7", "2"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/33a.wav", "text": ["3", "3"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/nl/49a.wav", "text": ["4", "9"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/85a.wav", "text": ["8", "5"], "duration": 23040}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/37a.wav", "text": ["3", "7"], "duration": 24832}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/o1a.wav", "text": ["0", "1"], "duration": 19968}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/81a.wav", "text": ["8", "1"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/34a.wav", "text": ["3", "4"], "duration": 21760}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/4oa.wav", "text": ["4", "0"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/13a.wav", "text": ["1", "3"], "duration": 29440}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/np/64a.wav", "text": ["6", "4"], "duration": 24064}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/31a.wav", "text": ["3", "1"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/37a.wav", "text": ["3", "7"], "duration": 25344}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/95a.wav", "text": ["9", "5"], "duration": 28416}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/9oa.wav", "text": ["9", "0"], "duration": 28928}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/41a.wav", "text": ["4", "1"], "duration": 35584}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/23a.wav", "text": ["2", "3"], "duration": 26368}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pc/ooa.wav", "text": ["0", "0"], "duration": 33024}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/89a.wav", "text": ["8", "9"], "duration": 22272}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/27a.wav", "text": ["2", "7"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/92a.wav", "text": ["9", "2"], "duration": 22528}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/41a.wav", "text": ["4", "1"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/19a.wav", "text": ["1", "9"], "duration": 20992}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/43a.wav", "text": ["4", "3"], "duration": 22784}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/3oa.wav", "text": ["3", "0"], "duration": 23040}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/29a.wav", "text": ["2", "9"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/o8a.wav", "text": ["0", "8"], "duration": 20480}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/ph/24a.wav", "text": ["2", "4"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/66a.wav", "text": ["6", "6"], "duration": 29952}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/8oa.wav", "text": ["8", "0"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/37a.wav", "text": ["3", "7"], "duration": 23296}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/95a.wav", "text": ["9", "5"], "duration": 29440}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/7oa.wav", "text": ["7", "0"], "duration": 28416}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/1oa.wav", "text": ["1", "0"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/43a.wav", "text": ["4", "3"], "duration": 27648}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/44a.wav", "text": ["4", "4"], "duration": 30720}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/pr/12a.wav", "text": ["1", "2"], "duration": 25344}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/85a.wav", "text": ["8", "5"], "duration": 25344}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/8oa.wav", "text": ["8", "0"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/21a.wav", "text": ["2", "1"], "duration": 22016}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/74a.wav", "text": ["7", "4"], "duration": 28928}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/35a.wav", "text": ["3", "5"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/75a.wav", "text": ["7", "5"], "duration": 27648}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/22a.wav", "text": ["2", "2"], "duration": 21504}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/44a.wav", "text": ["4", "4"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/o9a.wav", "text": ["0", "9"], "duration": 23808}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/rk/32a.wav", "text": ["3", "2"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/85a.wav", "text": ["8", "5"], "duration": 27648}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/71a.wav", "text": ["7", "1"], "duration": 27904}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/67a.wav", "text": ["6", "7"], "duration": 22272}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/47a.wav", "text": ["4", "7"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/51a.wav", "text": ["5", "1"], "duration": 21760}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/98a.wav", "text": ["9", "8"], "duration": 21248}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/74a.wav", "text": ["7", "4"], "duration": 28416}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/18a.wav", "text": ["1", "8"], "duration": 24064}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/64a.wav", "text": ["6", "4"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sa/69a.wav", "text": ["6", "9"], "duration": 30720}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/31a.wav", "text": ["3", "1"], "duration": 27136}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/89a.wav", "text": ["8", "9"], "duration": 24064}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/92a.wav", "text": ["9", "2"], "duration": 24320}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/8oa.wav", "text": ["8", "0"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/77a.wav", "text": ["7", "7"], "duration": 27904}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/97a.wav", "text": ["9", "7"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/38a.wav", "text": ["3", "8"], "duration": 33280}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/29a.wav", "text": ["2", "9"], "duration": 21248}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/49a.wav", "text": ["4", "9"], "duration": 27392}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sl/28a.wav", "text": ["2", "8"], "duration": 25088}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/95a.wav", "text": ["9", "5"], "duration": 24064}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/94a.wav", "text": ["9", "4"], "duration": 24064}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/42a.wav", "text": ["4", "2"], "duration": 25600}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/14a.wav", "text": ["1", "4"], "duration": 25856}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/59a.wav", "text": ["5", "9"], "duration": 28928}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/18a.wav", "text": ["1", "8"], "duration": 23296}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sr/2oa.wav", "text": ["2", "0"], "duration": 32768}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/93a.wav", "text": ["9", "3"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/47a.wav", "text": ["4", "7"], "duration": 21248}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/37a.wav", "text": ["3", "7"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/76a.wav", "text": ["7", "6"], "duration": 26112}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/82a.wav", "text": ["8", "2"], "duration": 21248}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/62a.wav", "text": ["6", "2"], "duration": 24832}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/o3a.wav", "text": ["0", "3"], "duration": 23552}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/5oa.wav", "text": ["5", "0"], "duration": 25344}
+data/partitions/test.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/test/sw/25a.wav", "text": ["2", "5"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/37a.wav", "text": ["3", "7"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/56a.wav", "text": ["5", "6"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/61a.wav", "text": ["6", "1"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/81a.wav", "text": ["8", "1"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/39a.wav", "text": ["3", "9"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/91a.wav", "text": ["9", "1"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/32a.wav", "text": ["3", "2"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pd/86a.wav", "text": ["8", "6"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/93a.wav", "text": ["9", "3"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/16a.wav", "text": ["1", "6"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/19a.wav", "text": ["1", "9"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/1oa.wav", "text": ["1", "0"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/63a.wav", "text": ["6", "3"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/48a.wav", "text": ["4", "8"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/sj/ooa.wav", "text": ["0", "0"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/46a.wav", "text": ["4", "6"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/66a.wav", "text": ["6", "6"], "duration": 36096}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/o6a.wav", "text": ["0", "6"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/74a.wav", "text": ["7", "4"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/81a.wav", "text": ["8", "1"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/25a.wav", "text": ["2", "5"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/72a.wav", "text": ["7", "2"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pb/24a.wav", "text": ["2", "4"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/46a.wav", "text": ["4", "6"], "duration": 34816}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/51a.wav", "text": ["5", "1"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/81a.wav", "text": ["8", "1"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/55a.wav", "text": ["5", "5"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/34a.wav", "text": ["3", "4"], "duration": 30976}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/72a.wav", "text": ["7", "2"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dn/48a.wav", "text": ["4", "8"], "duration": 33280}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/85a.wav", "text": ["8", "5"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/88a.wav", "text": ["8", "8"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/67a.wav", "text": ["6", "7"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/37a.wav", "text": ["3", "7"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/99a.wav", "text": ["9", "9"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/76a.wav", "text": ["7", "6"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/15a.wav", "text": ["1", "5"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/54a.wav", "text": ["5", "4"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kd/73a.wav", "text": ["7", "3"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/88a.wav", "text": ["8", "8"], "duration": 19200}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/8oa.wav", "text": ["8", "0"], "duration": 19968}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/o1a.wav", "text": ["0", "1"], "duration": 20224}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/58a.wav", "text": ["5", "8"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/39a.wav", "text": ["3", "9"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/34a.wav", "text": ["3", "4"], "duration": 31488}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/4oa.wav", "text": ["4", "0"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/13a.wav", "text": ["1", "3"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nr/o5a.wav", "text": ["0", "5"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/93a.wav", "text": ["9", "3"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/61a.wav", "text": ["6", "1"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/74a.wav", "text": ["7", "4"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/54a.wav", "text": ["5", "4"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/14a.wav", "text": ["1", "4"], "duration": 26880}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/44a.wav", "text": ["4", "4"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/6oa.wav", "text": ["6", "0"], "duration": 32256}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/o8a.wav", "text": ["0", "8"], "duration": 27904}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/32a.wav", "text": ["3", "2"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hl/28a.wav", "text": ["2", "8"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/85a.wav", "text": ["8", "5"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/o6a.wav", "text": ["0", "6"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/61a.wav", "text": ["6", "1"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/23a.wav", "text": ["2", "3"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/19a.wav", "text": ["1", "9"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/55a.wav", "text": ["5", "5"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/22a.wav", "text": ["2", "2"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/25a.wav", "text": ["2", "5"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mh/32a.wav", "text": ["3", "2"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/11a.wav", "text": ["1", "1"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/93a.wav", "text": ["9", "3"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/67a.wav", "text": ["6", "7"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/23a.wav", "text": ["2", "3"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/59a.wav", "text": ["5", "9"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/87a.wav", "text": ["8", "7"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/32a.wav", "text": ["3", "2"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ni/65a.wav", "text": ["6", "5"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/26a.wav", "text": ["2", "6"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/77a.wav", "text": ["7", "7"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/4oa.wav", "text": ["4", "0"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/49a.wav", "text": ["4", "9"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/73a.wav", "text": ["7", "3"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/53a.wav", "text": ["5", "3"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gt/o4a.wav", "text": ["0", "4"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/89a.wav", "text": ["8", "9"], "duration": 17664}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/37a.wav", "text": ["3", "7"], "duration": 17920}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/16a.wav", "text": ["1", "6"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/98a.wav", "text": ["9", "8"], "duration": 17664}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/62a.wav", "text": ["6", "2"], "duration": 19712}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/14a.wav", "text": ["1", "4"], "duration": 20224}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/22a.wav", "text": ["2", "2"], "duration": 18688}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/o8a.wav", "text": ["0", "8"], "duration": 16384}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aj/73a.wav", "text": ["7", "3"], "duration": 20480}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/56a.wav", "text": ["5", "6"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/82a.wav", "text": ["8", "2"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/16a.wav", "text": ["1", "6"], "duration": 33792}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/74a.wav", "text": ["7", "4"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/62a.wav", "text": ["6", "2"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/87a.wav", "text": ["8", "7"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/33a.wav", "text": ["3", "3"], "duration": 19968}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/aw/2oa.wav", "text": ["2", "0"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/77a.wav", "text": ["7", "7"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/54a.wav", "text": ["5", "4"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/43a.wav", "text": ["4", "3"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/91a.wav", "text": ["9", "1"], "duration": 33024}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/25a.wav", "text": ["2", "5"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/o8a.wav", "text": ["0", "8"], "duration": 30976}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/73a.wav", "text": ["7", "3"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gg/53a.wav", "text": ["5", "3"], "duration": 32768}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/89a.wav", "text": ["8", "9"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/84a.wav", "text": ["8", "4"], "duration": 30720}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/16a.wav", "text": ["1", "6"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/61a.wav", "text": ["6", "1"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/81a.wav", "text": ["8", "1"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/79a.wav", "text": ["7", "9"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/75a.wav", "text": ["7", "5"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/25a.wav", "text": ["2", "5"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mr/o9a.wav", "text": ["0", "9"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gr/27a.wav", "text": ["2", "7"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gr/84a.wav", "text": ["8", "4"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gr/41a.wav", "text": ["4", "1"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gr/57a.wav", "text": ["5", "7"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gr/62a.wav", "text": ["6", "2"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gr/29a.wav", "text": ["2", "9"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/o7a.wav", "text": ["0", "7"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/46a.wav", "text": ["4", "6"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/71a.wav", "text": ["7", "1"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/83a.wav", "text": ["8", "3"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/9oa.wav", "text": ["9", "0"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/23a.wav", "text": ["2", "3"], "duration": 21248}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/25a.wav", "text": ["2", "5"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/72a.wav", "text": ["7", "2"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/ooa.wav", "text": ["0", "0"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/o4a.wav", "text": ["0", "4"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/bd/45a.wav", "text": ["4", "5"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/67a.wav", "text": ["6", "7"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/94a.wav", "text": ["9", "4"], "duration": 29952}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/o2a.wav", "text": ["0", "2"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/38a.wav", "text": ["3", "8"], "duration": 31232}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/29a.wav", "text": ["2", "9"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/o5a.wav", "text": ["0", "5"], "duration": 32768}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/32a.wav", "text": ["3", "2"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/53a.wav", "text": ["5", "3"], "duration": 30720}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/al/69a.wav", "text": ["6", "9"], "duration": 35328}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/46a.wav", "text": ["4", "6"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/93a.wav", "text": ["9", "3"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/67a.wav", "text": ["6", "7"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/84a.wav", "text": ["8", "4"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/47a.wav", "text": ["4", "7"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/23a.wav", "text": ["2", "3"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/o2a.wav", "text": ["0", "2"], "duration": 21248}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/29a.wav", "text": ["2", "9"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ae/12a.wav", "text": ["1", "2"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/51a.wav", "text": ["5", "1"], "duration": 32512}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/82a.wav", "text": ["8", "2"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/16a.wav", "text": ["1", "6"], "duration": 30720}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/36a.wav", "text": ["3", "6"], "duration": 34048}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/29a.wav", "text": ["2", "9"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/13a.wav", "text": ["1", "3"], "duration": 31488}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/6oa.wav", "text": ["6", "0"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/49a.wav", "text": ["4", "9"], "duration": 29184}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kp/32a.wav", "text": ["3", "2"], "duration": 30464}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/85a.wav", "text": ["8", "5"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/88a.wav", "text": ["8", "8"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/98a.wav", "text": ["9", "8"], "duration": 31232}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/77a.wav", "text": ["7", "7"], "duration": 31744}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/36a.wav", "text": ["3", "6"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/62a.wav", "text": ["6", "2"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/39a.wav", "text": ["3", "9"], "duration": 31488}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/63a.wav", "text": ["6", "3"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/29a.wav", "text": ["2", "9"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nf/2oa.wav", "text": ["2", "0"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/93a.wav", "text": ["9", "3"], "duration": 33536}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/9oa.wav", "text": ["9", "0"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/42a.wav", "text": ["4", "2"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/o2a.wav", "text": ["0", "2"], "duration": 20992}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/38a.wav", "text": ["3", "8"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/18a.wav", "text": ["1", "8"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/3oa.wav", "text": ["3", "0"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/63a.wav", "text": ["6", "3"], "duration": 36864}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jt/o8a.wav", "text": ["0", "8"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/51a.wav", "text": ["5", "1"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/17a.wav", "text": ["1", "7"], "duration": 27904}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/61a.wav", "text": ["6", "1"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/79a.wav", "text": ["7", "9"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/59a.wav", "text": ["5", "9"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/ooa.wav", "text": ["0", "0"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/69a.wav", "text": ["6", "9"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/86a.wav", "text": ["8", "6"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fj/28a.wav", "text": ["2", "8"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/17a.wav", "text": ["1", "7"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/39a.wav", "text": ["3", "9"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/o3a.wav", "text": ["0", "3"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/96a.wav", "text": ["9", "6"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/34a.wav", "text": ["3", "4"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/63a.wav", "text": ["6", "3"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/6oa.wav", "text": ["6", "0"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/o9a.wav", "text": ["0", "9"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/24a.wav", "text": ["2", "4"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/in/45a.wav", "text": ["4", "5"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/37a.wav", "text": ["3", "7"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/95a.wav", "text": ["9", "5"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/36a.wav", "text": ["3", "6"], "duration": 30720}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/14a.wav", "text": ["1", "4"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/96a.wav", "text": ["9", "6"], "duration": 29184}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/3oa.wav", "text": ["3", "0"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/29a.wav", "text": ["2", "9"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/44a.wav", "text": ["4", "4"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/53a.wav", "text": ["5", "3"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/el/o4a.wav", "text": ["0", "4"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/71a.wav", "text": ["7", "1"], "duration": 32768}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/92a.wav", "text": ["9", "2"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/o1a.wav", "text": ["0", "1"], "duration": 40448}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/7oa.wav", "text": ["7", "0"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/35a.wav", "text": ["3", "5"], "duration": 32768}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/o5a.wav", "text": ["0", "5"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/25a.wav", "text": ["2", "5"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/6oa.wav", "text": ["6", "0"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/ooa.wav", "text": ["0", "0"], "duration": 30208}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fc/86a.wav", "text": ["8", "6"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/71a.wav", "text": ["7", "1"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/o6a.wav", "text": ["0", "6"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/o1a.wav", "text": ["0", "1"], "duration": 20480}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/95a.wav", "text": ["9", "5"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/19a.wav", "text": ["1", "9"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/39a.wav", "text": ["3", "9"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/38a.wav", "text": ["3", "8"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/91a.wav", "text": ["9", "1"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/o8a.wav", "text": ["0", "8"], "duration": 19456}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cr/32a.wav", "text": ["3", "2"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/46a.wav", "text": ["4", "6"], "duration": 30208}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/26a.wav", "text": ["2", "6"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/o6a.wav", "text": ["0", "6"], "duration": 38144}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/78a.wav", "text": ["7", "8"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/81a.wav", "text": ["8", "1"], "duration": 27904}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/68a.wav", "text": ["6", "8"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/24a.wav", "text": ["2", "4"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fd/ooa.wav", "text": ["0", "0"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/46a.wav", "text": ["4", "6"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/37a.wav", "text": ["3", "7"], "duration": 20480}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/21a.wav", "text": ["2", "1"], "duration": 18944}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/17a.wav", "text": ["1", "7"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/82a.wav", "text": ["8", "2"], "duration": 19456}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/38a.wav", "text": ["3", "8"], "duration": 20224}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/59a.wav", "text": ["5", "9"], "duration": 20992}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/o5a.wav", "text": ["0", "5"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/o9a.wav", "text": ["0", "9"], "duration": 19456}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/jr/24a.wav", "text": ["2", "4"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/92a.wav", "text": ["9", "2"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/o1a.wav", "text": ["0", "1"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/19a.wav", "text": ["1", "9"], "duration": 20224}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/78a.wav", "text": ["7", "8"], "duration": 27904}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/38a.wav", "text": ["3", "8"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/18a.wav", "text": ["1", "8"], "duration": 18944}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/68a.wav", "text": ["6", "8"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/52a.wav", "text": ["5", "2"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/48a.wav", "text": ["4", "8"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cf/o9a.wav", "text": ["0", "9"], "duration": 31488}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/11a.wav", "text": ["1", "1"], "duration": 18944}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/93a.wav", "text": ["9", "3"], "duration": 19712}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/89a.wav", "text": ["8", "9"], "duration": 17664}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/37a.wav", "text": ["3", "7"], "duration": 17920}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/36a.wav", "text": ["3", "6"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/4oa.wav", "text": ["4", "0"], "duration": 18176}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/52a.wav", "text": ["5", "2"], "duration": 19712}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/33a.wav", "text": ["3", "3"], "duration": 18176}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/o9a.wav", "text": ["0", "9"], "duration": 18432}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/it/o4a.wav", "text": ["0", "4"], "duration": 19200}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/59a.wav", "text": ["5", "9"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/18a.wav", "text": ["1", "8"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/4oa.wav", "text": ["4", "0"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/52a.wav", "text": ["5", "2"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/6oa.wav", "text": ["6", "0"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/32a.wav", "text": ["3", "2"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/2oa.wav", "text": ["2", "0"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/if/69a.wav", "text": ["6", "9"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/31a.wav", "text": ["3", "1"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/89a.wav", "text": ["8", "9"], "duration": 26880}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/26a.wav", "text": ["2", "6"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/88a.wav", "text": ["8", "8"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/58a.wav", "text": ["5", "8"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/81a.wav", "text": ["8", "1"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/o2a.wav", "text": ["0", "2"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/13a.wav", "text": ["1", "3"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/64a.wav", "text": ["6", "4"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fk/28a.wav", "text": ["2", "8"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/17a.wav", "text": ["1", "7"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/95a.wav", "text": ["9", "5"], "duration": 26880}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/9oa.wav", "text": ["9", "0"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/58a.wav", "text": ["5", "8"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/39a.wav", "text": ["3", "9"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/29a.wav", "text": ["2", "9"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/o9a.wav", "text": ["0", "9"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fl/86a.wav", "text": ["8", "6"], "duration": 29184}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/8oa.wav", "text": ["8", "0"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/62a.wav", "text": ["6", "2"], "duration": 30976}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/58a.wav", "text": ["5", "8"], "duration": 32256}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/54a.wav", "text": ["5", "4"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/o2a.wav", "text": ["0", "2"], "duration": 27392}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/79a.wav", "text": ["7", "9"], "duration": 32512}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/96a.wav", "text": ["9", "6"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/59a.wav", "text": ["5", "9"], "duration": 30208}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rf/73a.wav", "text": ["7", "3"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/85a.wav", "text": ["8", "5"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/42a.wav", "text": ["4", "2"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/o3a.wav", "text": ["0", "3"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/54a.wav", "text": ["5", "4"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/1oa.wav", "text": ["1", "0"], "duration": 21248}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/91a.wav", "text": ["9", "1"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/72a.wav", "text": ["7", "2"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/64a.wav", "text": ["6", "4"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/st/2oa.wav", "text": ["2", "0"], "duration": 19456}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/17a.wav", "text": ["1", "7"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/77a.wav", "text": ["7", "7"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/62a.wav", "text": ["6", "2"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/o2a.wav", "text": ["0", "2"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/44a.wav", "text": ["4", "4"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/13a.wav", "text": ["1", "3"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/64a.wav", "text": ["6", "4"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/48a.wav", "text": ["4", "8"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/pi/12a.wav", "text": ["1", "2"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/8oa.wav", "text": ["8", "0"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/47a.wav", "text": ["4", "7"], "duration": 30464}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/41a.wav", "text": ["4", "1"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/98a.wav", "text": ["9", "8"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/36a.wav", "text": ["3", "6"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/78a.wav", "text": ["7", "8"], "duration": 33024}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/14a.wav", "text": ["1", "4"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/o8a.wav", "text": ["0", "8"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/kr/o4a.wav", "text": ["0", "4"], "duration": 29952}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/89a.wav", "text": ["8", "9"], "duration": 25088}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/71a.wav", "text": ["7", "1"], "duration": 25856}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/67a.wav", "text": ["6", "7"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/92a.wav", "text": ["9", "2"], "duration": 31232}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/77a.wav", "text": ["7", "7"], "duration": 32000}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/14a.wav", "text": ["1", "4"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/o2a.wav", "text": ["0", "2"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/91a.wav", "text": ["9", "1"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/44a.wav", "text": ["4", "4"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mb/24a.wav", "text": ["2", "4"], "duration": 29952}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/27a.wav", "text": ["2", "7"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/47a.wav", "text": ["4", "7"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/99a.wav", "text": ["9", "9"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/o1a.wav", "text": ["0", "1"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/83a.wav", "text": ["8", "3"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/57a.wav", "text": ["5", "7"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/34a.wav", "text": ["3", "4"], "duration": 26880}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hs/65a.wav", "text": ["6", "5"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/11a.wav", "text": ["1", "1"], "duration": 16128}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/46a.wav", "text": ["4", "6"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/92a.wav", "text": ["9", "2"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/21a.wav", "text": ["2", "1"], "duration": 17664}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/57a.wav", "text": ["5", "7"], "duration": 20992}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/19a.wav", "text": ["1", "9"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/3oa.wav", "text": ["3", "0"], "duration": 19200}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/13a.wav", "text": ["1", "3"], "duration": 20224}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/o5a.wav", "text": ["0", "5"], "duration": 19968}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ha/ooa.wav", "text": ["0", "0"], "duration": 18688}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/84a.wav", "text": ["8", "4"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/51a.wav", "text": ["5", "1"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/9oa.wav", "text": ["9", "0"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/7oa.wav", "text": ["7", "0"], "duration": 30976}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/19a.wav", "text": ["1", "9"], "duration": 30464}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/1oa.wav", "text": ["1", "0"], "duration": 30976}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/44a.wav", "text": ["4", "4"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/4oa.wav", "text": ["4", "0"], "duration": 29440}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/33a.wav", "text": ["3", "3"], "duration": 27392}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/mp/53a.wav", "text": ["5", "3"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/85a.wav", "text": ["8", "5"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/93a.wav", "text": ["9", "3"], "duration": 19968}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/92a.wav", "text": ["9", "2"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/8oa.wav", "text": ["8", "0"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/79a.wav", "text": ["7", "9"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/87a.wav", "text": ["8", "7"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/ooa.wav", "text": ["0", "0"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/12a.wav", "text": ["1", "2"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/86a.wav", "text": ["8", "6"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hh/28a.wav", "text": ["2", "8"], "duration": 18944}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/o7a.wav", "text": ["0", "7"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/89a.wav", "text": ["8", "9"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/92a.wav", "text": ["9", "2"], "duration": 21760}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/97a.wav", "text": ["9", "7"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/5oa.wav", "text": ["5", "0"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/29a.wav", "text": ["2", "9"], "duration": 18944}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/44a.wav", "text": ["4", "4"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/ooa.wav", "text": ["0", "0"], "duration": 20992}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ne/28a.wav", "text": ["2", "8"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/11a.wav", "text": ["1", "1"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/46a.wav", "text": ["4", "6"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/84a.wav", "text": ["8", "4"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/76a.wav", "text": ["7", "6"], "duration": 30976}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/17a.wav", "text": ["1", "7"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/82a.wav", "text": ["8", "2"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/77a.wav", "text": ["7", "7"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/55a.wav", "text": ["5", "5"], "duration": 26880}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/33a.wav", "text": ["3", "3"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/nw/65a.wav", "text": ["6", "5"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/93a.wav", "text": ["9", "3"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/17a.wav", "text": ["1", "7"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/74a.wav", "text": ["7", "4"], "duration": 29952}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/97a.wav", "text": ["9", "7"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/79a.wav", "text": ["7", "9"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/22a.wav", "text": ["2", "2"], "duration": 21248}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/hn/ooa.wav", "text": ["0", "0"], "duration": 20992}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/o7a.wav", "text": ["0", "7"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/84a.wav", "text": ["8", "4"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/16a.wav", "text": ["1", "6"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/58a.wav", "text": ["5", "8"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/78a.wav", "text": ["7", "8"], "duration": 27392}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/79a.wav", "text": ["7", "9"], "duration": 27392}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/29a.wav", "text": ["2", "9"], "duration": 19456}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/91a.wav", "text": ["9", "1"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/gj/44a.wav", "text": ["4", "4"], "duration": 20992}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/66a.wav", "text": ["6", "6"], "duration": 27392}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/26a.wav", "text": ["2", "6"], "duration": 27392}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/84a.wav", "text": ["8", "4"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/o1a.wav", "text": ["0", "1"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/7oa.wav", "text": ["7", "0"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/96a.wav", "text": ["9", "6"], "duration": 27648}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/72a.wav", "text": ["7", "2"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/33a.wav", "text": ["3", "3"], "duration": 22016}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/dl/69a.wav", "text": ["6", "9"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/o6a.wav", "text": ["0", "6"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/56a.wav", "text": ["5", "6"], "duration": 35840}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/41a.wav", "text": ["4", "1"], "duration": 31232}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/18a.wav", "text": ["1", "8"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/29a.wav", "text": ["2", "9"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/91a.wav", "text": ["9", "1"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/o5a.wav", "text": ["0", "5"], "duration": 29184}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/33a.wav", "text": ["3", "3"], "duration": 30208}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/53a.wav", "text": ["5", "3"], "duration": 27904}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/fi/45a.wav", "text": ["4", "5"], "duration": 29696}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/92a.wav", "text": ["9", "2"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/42a.wav", "text": ["4", "2"], "duration": 31488}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/43a.wav", "text": ["4", "3"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/3oa.wav", "text": ["3", "0"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/48a.wav", "text": ["4", "8"], "duration": 26112}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/32a.wav", "text": ["3", "2"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/ooa.wav", "text": ["0", "0"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/o4a.wav", "text": ["0", "4"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/eh/28a.wav", "text": ["2", "8"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ie/62a.wav", "text": ["6", "2"], "duration": 27904}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ie/58a.wav", "text": ["5", "8"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ie/55a.wav", "text": ["5", "5"], "duration": 34816}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ie/18a.wav", "text": ["1", "8"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ie/22a.wav", "text": ["2", "2"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/11a.wav", "text": ["1", "1"], "duration": 20736}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/26a.wav", "text": ["2", "6"], "duration": 24320}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/67a.wav", "text": ["6", "7"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/94a.wav", "text": ["9", "4"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/9oa.wav", "text": ["9", "0"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/77a.wav", "text": ["7", "7"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/81a.wav", "text": ["8", "1"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/1oa.wav", "text": ["1", "0"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lt/53a.wav", "text": ["5", "3"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/93a.wav", "text": ["9", "3"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/84a.wav", "text": ["8", "4"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/94a.wav", "text": ["9", "4"], "duration": 21248}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/82a.wav", "text": ["8", "2"], "duration": 26624}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/59a.wav", "text": ["5", "9"], "duration": 23040}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/49a.wav", "text": ["4", "9"], "duration": 21504}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/53a.wav", "text": ["5", "3"], "duration": 24832}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/ff/12a.wav", "text": ["1", "2"], "duration": 19968}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/o7a.wav", "text": ["0", "7"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/26a.wav", "text": ["2", "6"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/67a.wav", "text": ["6", "7"], "duration": 24576}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/84a.wav", "text": ["8", "4"], "duration": 19968}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/62a.wav", "text": ["6", "2"], "duration": 23552}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/97a.wav", "text": ["9", "7"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/1oa.wav", "text": ["1", "0"], "duration": 23296}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/lh/2oa.wav", "text": ["2", "0"], "duration": 21248}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/o6a.wav", "text": ["0", "6"], "duration": 28928}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/37a.wav", "text": ["3", "7"], "duration": 25600}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/99a.wav", "text": ["9", "9"], "duration": 28160}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/61a.wav", "text": ["6", "1"], "duration": 27136}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/14a.wav", "text": ["1", "4"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/79a.wav", "text": ["7", "9"], "duration": 31232}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/75a.wav", "text": ["7", "5"], "duration": 37120}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/22a.wav", "text": ["2", "2"], "duration": 34048}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/52a.wav", "text": ["5", "2"], "duration": 25344}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/72a.wav", "text": ["7", "2"], "duration": 26880}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/cb/69a.wav", "text": ["6", "9"], "duration": 29184}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/96a.wav", "text": ["9", "6"], "duration": 28416}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/75a.wav", "text": ["7", "5"], "duration": 28672}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/4oa.wav", "text": ["4", "0"], "duration": 22272}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/13a.wav", "text": ["1", "3"], "duration": 26368}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/72a.wav", "text": ["7", "2"], "duration": 22784}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/6oa.wav", "text": ["6", "0"], "duration": 24064}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/33a.wav", "text": ["3", "3"], "duration": 23808}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/ooa.wav", "text": ["0", "0"], "duration": 22528}
+data/partitions/train.json:{"audio": "/Users/shane/BitBucket/ttic31110/hw4/hw4-assign/rnn/data/train/rd/28a.wav", "text": ["2", "8"], "duration": 24064}
+grep: data/test/ah: Is a directory
+grep: data/test/ar: Is a directory
+grep: data/test/at: Is a directory
+grep: data/test/bc: Is a directory
+grep: data/test/be: Is a directory
+grep: data/test/bm: Is a directory
+grep: data/test/bn: Is a directory
+grep: data/test/cc: Is a directory
+grep: data/test/ce: Is a directory
+grep: data/test/cp: Is a directory
+grep: data/test/df: Is a directory
+grep: data/test/dj: Is a directory
+grep: data/test/ed: Is a directory
+grep: data/test/ef: Is a directory
+grep: data/test/et: Is a directory
+grep: data/test/fa: Is a directory
+grep: data/test/fg: Is a directory
+grep: data/test/fh: Is a directory
+grep: data/test/fm: Is a directory
+grep: data/test/fp: Is a directory
+grep: data/test/fr: Is a directory
+grep: data/test/fs: Is a directory
+grep: data/test/ft: Is a directory
+grep: data/test/ga: Is a directory
+grep: data/test/gp: Is a directory
+grep: data/test/gs: Is a directory
+grep: data/test/gw: Is a directory
+grep: data/test/hc: Is a directory
+grep: data/test/hj: Is a directory
+grep: data/test/hm: Is a directory
+grep: data/test/hr: Is a directory
+grep: data/test/ia: Is a directory
+grep: data/test/ib: Is a directory
+grep: data/test/im: Is a directory
+grep: data/test/ip: Is a directory
+grep: data/test/ja: Is a directory
+grep: data/test/jh: Is a directory
+grep: data/test/ka: Is a directory
+grep: data/test/ke: Is a directory
+grep: data/test/kg: Is a directory
+grep: data/test/le: Is a directory
+grep: data/test/lg: Is a directory
+grep: data/test/mi: Is a directory
+grep: data/test/nl: Is a directory
+grep: data/test/np: Is a directory
+grep: data/test/nt: Is a directory
+grep: data/test/pc: Is a directory
+grep: data/test/pg: Is a directory
+grep: data/test/ph: Is a directory
+grep: data/test/pr: Is a directory
+grep: data/test/rk: Is a directory
+grep: data/test/sa: Is a directory
+grep: data/test/sl: Is a directory
+grep: data/test/sr: Is a directory
+grep: data/test/sw: Is a directory
+grep: data/test/tc: Is a directory
+grep: data/train/ae: Is a directory
+grep: data/train/aj: Is a directory
+grep: data/train/al: Is a directory
+grep: data/train/aw: Is a directory
+grep: data/train/bd: Is a directory
+grep: data/train/cb: Is a directory
+grep: data/train/cf: Is a directory
+grep: data/train/cr: Is a directory
+grep: data/train/dl: Is a directory
+grep: data/train/dn: Is a directory
+grep: data/train/eh: Is a directory
+grep: data/train/el: Is a directory
+grep: data/train/fc: Is a directory
+grep: data/train/fd: Is a directory
+grep: data/train/ff: Is a directory
+grep: data/train/fi: Is a directory
+grep: data/train/fj: Is a directory
+grep: data/train/fk: Is a directory
+grep: data/train/fl: Is a directory
+grep: data/train/gg: Is a directory
+grep: data/train/gj: Is a directory
+grep: data/train/gr: Is a directory
+grep: data/train/gt: Is a directory
+grep: data/train/ha: Is a directory
+grep: data/train/hh: Is a directory
+grep: data/train/hl: Is a directory
+grep: data/train/hn: Is a directory
+grep: data/train/hs: Is a directory
+grep: data/train/ie: Is a directory
+grep: data/train/if: Is a directory
+grep: data/train/in: Is a directory
+grep: data/train/it: Is a directory
+grep: data/train/jr: Is a directory
+grep: data/train/jt: Is a directory
+grep: data/train/kd: Is a directory
+grep: data/train/kp: Is a directory
+grep: data/train/kr: Is a directory
+grep: data/train/lh: Is a directory
+grep: data/train/lt: Is a directory
+grep: data/train/mb: Is a directory
+grep: data/train/mh: Is a directory
+grep: data/train/mp: Is a directory
+grep: data/train/mr: Is a directory
+grep: data/train/ne: Is a directory
+grep: data/train/nf: Is a directory
+grep: data/train/ni: Is a directory
+grep: data/train/nr: Is a directory
+grep: data/train/nw: Is a directory
+grep: data/train/pb: Is a directory
+grep: data/train/pd: Is a directory
+grep: data/train/pi: Is a directory
+grep: data/train/rd: Is a directory
+grep: data/train/rf: Is a directory
+grep: data/train/sj: Is a directory
+grep: data/train/st: Is a directory
