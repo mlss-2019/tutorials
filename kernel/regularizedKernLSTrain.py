@@ -16,8 +16,10 @@ def regularizedKernLSTrain(Xtr, Ytr, kernel, sigma, lam):
 
     from regularizationNetworks import regularizedKernLSTrain
     c =  regularizedKernLSTrain.regularizedKernLSTrain(Xtr, Ytr, 'gaussian', 1, 1E-1);'''
+    
     n = Xtr.shape[0]
     K = kernelMatrix(Xtr, Xtr, sigma, kernel)
+    ### COMPUTE THE WEIGHTS c
     c = np.dot(np.linalg.pinv(K + lam * n * np.identity(n)), Ytr)
-
+    ###----------------------
     return c
