@@ -1,6 +1,7 @@
 name: mlss_kern
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - python=3
   - numpy
@@ -11,3 +12,4 @@ dependencies:
   - jupyter
   - ipywidgets
   - nb_conda
+  - jupyter_contrib_nbextensions
