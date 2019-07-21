@@ -1,11 +1,11 @@
 {
     "seed" : 273,
-    "save_path" : "/content/drive/My Drive/MLSS2019/tutorials/rnn/checkpoints",
+    "save_path" : "speech/rnn/checkpoints",
 
     "data" : {
-        "train_set" : "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/partitions/train.json",
-        "dev_set" : "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/partitions/dev.json",
-        "test_set" : "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/partitions/test.json",
+        "train_set" : "speech/rnn/data/partitions/train.json",
+        "dev_set" : "speech/rnn/data/partitions/dev.json",
+        "test_set" : "speech/rnn/data/partitions/test.json",
         "start_and_end" : true
     },
 
