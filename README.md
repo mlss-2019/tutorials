@@ -270,9 +270,12 @@ installed and pulled the docker image.
 <a id="orga0e6857"></a>
 
 ### Kernels
+See [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_kern.yml`. After activating the
+environment, go to `$TUTORIALS_DIR/kernel/` and then run the tutorial by using
 
-TODO
-
+```bash
+jupyter notebook 'Tutorial Kernel.ipynb'
+```
 
 <a id="org50e0f6b"></a>
 
