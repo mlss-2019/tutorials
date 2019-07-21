@@ -7,7 +7,6 @@ import numpy as np
 
 def FALKON(X, Y, M, KernelMatrix, lam, t, verbose=False):
     n = X.shape[0]
-    # select Nystrom centers uniformly at random
     nys_idxs = np.random.permutation(n)[0:M]
     C = X[nys_idxs, :]
     if verbose:
