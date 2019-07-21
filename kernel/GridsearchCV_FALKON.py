@@ -10,37 +10,41 @@ from FALKON import FALKON
 def GridSearchCV_FALKON(x, y, kernel, lam_list, kerpar_list, m_list, err_func, falkon_iter=5, perc=20, nrip=5, verbose=True):
     '''
     Input:
-    xtr: the training examples
-    ytr: the training labels
-    kernel: the kernel function (see KernelMatrix documentation).
-    perc: percentage of the dataset to be used for validation, must be in range [1,100]
-    nrip: number of repetitions of the test for each couple of parameters
+    x: the training examples
+    y: the training labels
+    kernel: the kernel function (it needs to be a function that given the kernel parameter returns a kernel function that takes two sets of points and returns the kernel matrix between the two sets. Example: lambda sigma: lambda A,B: rbf_kernel(A,B, gamma=1./(2*sigma**2)) ).
     lam_list: list of regularization parameters
         for example intlambda = np.array([5,2,1,0.7,0.5,0.3,0.2,0.1, 0.05, 0.02, 0.01, 0.005, 0.002, 0.001, 0.0005, 0.0002, 0.0001,0.00001,0.000001])
     kerpar_list: list of kernel parameters
         for example intkerpar = np.array([10,7,5,4,3,2.5,2.0,1.5,1.0,0.7,0.5,0.3,0.2,0.1, 0.05, 0.03,0.02, 0.01])
-    m_list: list of kernel parameters
+    m_list: list of values M
         for example intmpar = np.array([5,10,100,500,1000])
-
+    err_func: function to compute the error of the learned functions (Examples: c_err_func = lambda Ypred, Ytrue: np.mean(np.sign(Ypred) != np.sign(Ytrue)))
+    falkon_iter: maximum number of iterations of FALKON
+    perc: percentage of the dataset to be used for validation, must be in range [1,100]
+    nrip: number of repetitions of the test for each couple of parameters
+    
     Returns:
-    l, s: the couple of lambda and kernel parameter that minimize the median of the validation error
+    l, s, m: the lambda, kernel parameter and M value that minimize the median of the validation error
     vm, vs: median and variance of the validation error for each couple of parameters
     tm, ts: median and variance of the error computed on the training set for each couple of parameters
 
     Example of usage:
 
-    from regularizationNetworks import MixGauss
-    from regularizationNetworks import holdoutCVKernRLS
-    import matplotlib.pyplot as plt
     import numpy as np
+    from FALKON import FALKON
+    from sklearn.metrics.pairwise import rbf_kernel
+    from MixGauss import MixGauss
 
-    lam_list = np.array([5,2,1,0.7,0.5,0.3,0.2,0.1, 0.05, 0.02, 0.01, 0.005, 0.002, 0.001, 0.0005, 0.0002, 0.0001,0.00001,0.000001])
-    kerpar_list = np.array([10,7,5,4,3,2.5,2.0,1.5,1.0,0.7,0.5,0.3,0.2,0.1, 0.05, 0.03,0.02, 0.01])
-    xtr, ytr = MixGauss.mixgauss([[0;0],[1;1]],[0.5,0.25],100);
-    l, s, Vm, Vs, Tm, Ts = holdoutCVKernRLS.holdoutcvkernrls(xtr, ytr,'gaussian', 0.5, 5, lam_list, kerpar_list);
-    plt.plot(lam_list, vm, 'b')
-    plt.plot(lam_list, tm, 'r')
-    plt.show()
+    Xtr, Ytr = MixGauss([[0;0],[1;1]],[0.5,0.25],100);
+
+    kerpar_list = [2, 4, 6]
+    lam_list = [1e-3, 1e-1, 1]
+    m_list = [10, 100, 1000]
+    kernel = lambda sigma: lambda A,B: rbf_kernel(A,B, gamma=1./(2*sigma**2))
+    c_err_func = lambda Ypred, Ytrue: np.mean(np.sign(Ypred) != np.sign(Ytrue))
+
+    best_l, best_s, best_m, vm, vs, tm, ts = GridSearchCV_FALKON(Xtr, Ytr, kernel, lam_list, kerpar_list, m_list, c_err_func)
     '''
 
     if perc < 1 or perc > 100:
