@@ -1,0 +1,13 @@
+name: mlss_kern
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - ipywidgets
+  - nb_conda
