@@ -20,6 +20,7 @@
         8.  [Approximate Bayesian Computation](#org36b760c)
         9.  [Speech Processing](#org95fe76a)
         10. [ML in Computational Biology](#org7236865)
+        11. [Submodularity](#org964b5ee)
 
 
 <a id="org46bde8c"></a>
@@ -270,12 +271,9 @@ installed and pulled the docker image.
 <a id="orga0e6857"></a>
 
 ### Kernels
-See [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_kern.yml`. After activating the
-environment, go to `$TUTORIALS_DIR/kernel/` and then run the tutorial by using
 
-```bash
-jupyter notebook 'Tutorial Kernel.ipynb'
-```
+TODO
+
 
 <a id="org50e0f6b"></a>
 
@@ -308,3 +306,17 @@ TODO
 
 TODO
 
+
+
+<a id="org964b5ee"></a>
+
+### Submodularity
+The tutorial is in `$TUTORIALS_DIR/submodular/submodular-opt.ipynb` and should work in [Colab](https://colab.research.google.com/) out of the box.
+Alternatively, you can set up [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_submod.yml`. 
+After activating the Conda environment, ensure jupyter can access the environment by running
+```
+python -m ipykernel install --user --name mlss_submod --display-name "Python (mlss_submod)"
+```
+Then, launch the notebook via `jupyter notebook` and open the tutorial.
+
+TODO: can we add this to the docker image?
