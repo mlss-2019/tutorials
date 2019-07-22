@@ -309,7 +309,7 @@ TODO
 <a id="#org964b5ee"></a>
 
 ### Submodularity
-The tutorial is in `$TUTORIALS_DIR/submodular/submodular-opt.ipynb` and should work in Colab out of the box.
+The tutorial is in `$TUTORIALS_DIR/submodular/submodular-opt.ipynb` and should work in [Colab](https://colab.research.google.com/) out of the box.
 Alternatively, you can set up [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_submod.yml`. 
 After activating the Conda environment, ensure jupyter can access the environment by running
 ```
