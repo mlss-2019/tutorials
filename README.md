@@ -20,6 +20,7 @@
         8.  [Approximate Bayesian Computation](#org36b760c)
         9.  [Speech Processing](#org95fe76a)
         10. [ML in Computational Biology](#org7236865)
+        11. [Submodularity](#org964b5ee)
 
 
 <a id="org46bde8c"></a>
@@ -305,6 +306,7 @@ TODO
 
 TODO
 
+<a id="#org964b5ee"></a>
 
 ### Submodularity
 The tutorial is in `$TUTORIALS_DIR/submodular/submodular-opt.ipynb` and should work in Colab out of the box.
