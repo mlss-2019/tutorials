@@ -290,15 +290,25 @@ using
 
 ### Approximate Bayesian Computation
 
-TODO
+#### Locally
 
+Install `scipy`, `matplotlib` and `tqdm` via `conda`/`pip`. Then run `jupyter notebook` and launch `abc_filippi/ABC.ipynb`.
+
+#### Colab
+
+Import `abc_filippi/ABC.ipynb` either from your local copy or the GitHub repository.
 
 <a id="org95fe76a"></a>
 
 ### Speech Processing
 
-TODO
+#### Locally
 
+Install `simplejson` and `pytorch` via `conda`/`pip` and `editdistance` and `soundfile` via pip. Then run `jupyter notebook` and launch `speech/tutorial.ipynb`.
+
+#### Colab
+
+Place and rename the `speech` folder in this repository into your personal Google Drive folder (Google Drive is needed) at `MLSS2019/tutorials` (note that `speech` needs to be renamed to `tutorials`). Import `speech/tutorial.ipynb` either from your local copy or the GitHub repository.
 
 <a id="org7236865"></a>
 
