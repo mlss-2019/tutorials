@@ -1,2 +1,3 @@
 hmm/single_digit_model.pkl
-rnn/checkpoints
+rnn/checkpoints/[0-9]*
+rnn/checkpoints/best

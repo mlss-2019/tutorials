@@ -112,7 +112,7 @@ class Seq2Seq(nn.Module):
         batch_size, _, out_dim = out.size()
         out = out.view((-1, out_dim))
         y = y[:, 1:].contiguous().view((-1))
-        loss = nn.functional.cross_entropy(out, y, size_average=False)
+        loss = nn.functional.cross_entropy(out, y, reduction='sum')
         return loss / batch_size
 
     def forward_impl(self, x, y):
