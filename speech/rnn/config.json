@@ -3,9 +3,9 @@
     "save_path" : "rnn/checkpoints",
 
     "data" : {
-        "train_set" : "rnn/data/partitions/train_local.json",
-        "dev_set" : "rnn/data/partitions/dev_local.json",
-        "test_set" : "rnn/data/partitions/test_local.json",
+        "train_set" : "rnn/data/partitions/train.json",
+        "dev_set" : "rnn/data/partitions/dev.json",
+        "test_set" : "rnn/data/partitions/test.json",
         "start_and_end" : true
     },
 
