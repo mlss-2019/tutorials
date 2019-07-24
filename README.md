@@ -308,15 +308,7 @@ Install `simplejson` and `pytorch` via `conda`/`pip` and `editdistance` and `sou
 
 #### Colab
 
-Place and rename the `speech` folder in this repository into your personal Google Drive folder (Google Drive is needed) at `MLSS2019/tutorials` (note that `speech` needs to be renamed to `tutorials`). Import `speech/tutorial.ipynb` either from your local copy or the GitHub repository.
-
-<a id="org7236865"></a>
-
-### ML in Computational Biology
-
-TODO
-
-
+Import `speech/tutorial.ipynb` either from your local copy or the GitHub repository.
 
 <a id="org964b5ee"></a>
 
