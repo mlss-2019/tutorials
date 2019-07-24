@@ -1,286 +1,286 @@
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/56a.wav", "text": ["5", "6"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/95a.wav", "text": ["9", "5"], "duration": 22528}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/41a.wav", "text": ["4", "1"], "duration": 25600}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/78a.wav", "text": ["7", "8"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/o3a.wav", "text": ["0", "3"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/o5a.wav", "text": ["0", "5"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/25a.wav", "text": ["2", "5"], "duration": 28928}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/o8a.wav", "text": ["0", "8"], "duration": 17408}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/32a.wav", "text": ["3", "2"], "duration": 21248}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/le/69a.wav", "text": ["6", "9"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/11a.wav", "text": ["1", "1"], "duration": 33024}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/26a.wav", "text": ["2", "6"], "duration": 38656}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/47a.wav", "text": ["4", "7"], "duration": 36864}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/42a.wav", "text": ["4", "2"], "duration": 32256}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/1oa.wav", "text": ["1", "0"], "duration": 29440}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/65a.wav", "text": ["6", "5"], "duration": 55296}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/53a.wav", "text": ["5", "3"], "duration": 38144}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hm/ooa.wav", "text": ["0", "0"], "duration": 33536}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/56a.wav", "text": ["5", "6"], "duration": 27648}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/17a.wav", "text": ["1", "7"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/83a.wav", "text": ["8", "3"], "duration": 22528}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/57a.wav", "text": ["5", "7"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/97a.wav", "text": ["9", "7"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/91a.wav", "text": ["9", "1"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/o5a.wav", "text": ["0", "5"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/12a.wav", "text": ["1", "2"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ib/28a.wav", "text": ["2", "8"], "duration": 18432}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/93a.wav", "text": ["9", "3"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/83a.wav", "text": ["8", "3"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/94a.wav", "text": ["9", "4"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/42a.wav", "text": ["4", "2"], "duration": 21248}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/o2a.wav", "text": ["0", "2"], "duration": 19456}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/59a.wav", "text": ["5", "9"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/6oa.wav", "text": ["6", "0"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/24a.wav", "text": ["2", "4"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/ooa.wav", "text": ["0", "0"], "duration": 30720}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fs/69a.wav", "text": ["6", "9"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/88a.wav", "text": ["8", "8"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/81a.wav", "text": ["8", "1"], "duration": 26624}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/39a.wav", "text": ["3", "9"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/42a.wav", "text": ["4", "2"], "duration": 29184}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/54a.wav", "text": ["5", "4"], "duration": 23040}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/59a.wav", "text": ["5", "9"], "duration": 21248}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/75a.wav", "text": ["7", "5"], "duration": 30208}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/29a.wav", "text": ["2", "9"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fh/65a.wav", "text": ["6", "5"], "duration": 27136}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/7oa.wav", "text": ["7", "0"], "duration": 20992}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/14a.wav", "text": ["1", "4"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/79a.wav", "text": ["7", "9"], "duration": 30208}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/63a.wav", "text": ["6", "3"], "duration": 28672}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/29a.wav", "text": ["2", "9"], "duration": 28160}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/64a.wav", "text": ["6", "4"], "duration": 27648}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/53a.wav", "text": ["5", "3"], "duration": 21248}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/at/69a.wav", "text": ["6", "9"], "duration": 31488}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/46a.wav", "text": ["4", "6"], "duration": 33024}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/88a.wav", "text": ["8", "8"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/41a.wav", "text": ["4", "1"], "duration": 31232}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/62a.wav", "text": ["6", "2"], "duration": 25600}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/34a.wav", "text": ["3", "4"], "duration": 27648}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/87a.wav", "text": ["8", "7"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/53a.wav", "text": ["5", "3"], "duration": 26112}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gs/69a.wav", "text": ["6", "9"], "duration": 29952}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/66a.wav", "text": ["6", "6"], "duration": 32512}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/47a.wav", "text": ["4", "7"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/21a.wav", "text": ["2", "1"], "duration": 22528}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/9oa.wav", "text": ["9", "0"], "duration": 25344}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/57a.wav", "text": ["5", "7"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/58a.wav", "text": ["5", "8"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/91a.wav", "text": ["9", "1"], "duration": 26880}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/25a.wav", "text": ["2", "5"], "duration": 27392}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ia/ooa.wav", "text": ["0", "0"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/56a.wav", "text": ["5", "6"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/35a.wav", "text": ["3", "5"], "duration": 20480}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/58a.wav", "text": ["5", "8"], "duration": 18432}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/39a.wav", "text": ["3", "9"], "duration": 19200}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/14a.wav", "text": ["1", "4"], "duration": 19712}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/63a.wav", "text": ["6", "3"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/68a.wav", "text": ["6", "8"], "duration": 19200}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/o5a.wav", "text": ["0", "5"], "duration": 19200}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/52a.wav", "text": ["5", "2"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/be/o4a.wav", "text": ["0", "4"], "duration": 18688}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/11a.wav", "text": ["1", "1"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/77a.wav", "text": ["7", "7"], "duration": 30720}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/23a.wav", "text": ["2", "3"], "duration": 28160}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/74a.wav", "text": ["7", "4"], "duration": 31744}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/97a.wav", "text": ["9", "7"], "duration": 29440}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/34a.wav", "text": ["3", "4"], "duration": 29696}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/75a.wav", "text": ["7", "5"], "duration": 29440}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/87a.wav", "text": ["8", "7"], "duration": 25600}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/6oa.wav", "text": ["6", "0"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fm/69a.wav", "text": ["6", "9"], "duration": 30976}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/46a.wav", "text": ["4", "6"], "duration": 26624}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/93a.wav", "text": ["9", "3"], "duration": 26880}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/84a.wav", "text": ["8", "4"], "duration": 23040}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/98a.wav", "text": ["9", "8"], "duration": 26624}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/35a.wav", "text": ["3", "5"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/58a.wav", "text": ["5", "8"], "duration": 25344}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/14a.wav", "text": ["1", "4"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/72a.wav", "text": ["7", "2"], "duration": 26880}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/cp/ooa.wav", "text": ["0", "0"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/93a.wav", "text": ["9", "3"], "duration": 30976}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/66a.wav", "text": ["6", "6"], "duration": 41472}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/94a.wav", "text": ["9", "4"], "duration": 29696}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/16a.wav", "text": ["1", "6"], "duration": 30208}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/19a.wav", "text": ["1", "9"], "duration": 30208}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/96a.wav", "text": ["9", "6"], "duration": 29184}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/68a.wav", "text": ["6", "8"], "duration": 31744}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/pg/87a.wav", "text": ["8", "7"], "duration": 28160}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/88a.wav", "text": ["8", "8"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/o6a.wav", "text": ["0", "6"], "duration": 29696}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/35a.wav", "text": ["3", "5"], "duration": 36608}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/18a.wav", "text": ["1", "8"], "duration": 34560}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/22a.wav", "text": ["2", "2"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/44a.wav", "text": ["4", "4"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/49a.wav", "text": ["4", "9"], "duration": 33792}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/32a.wav", "text": ["3", "2"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/65a.wav", "text": ["6", "5"], "duration": 37120}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fg/69a.wav", "text": ["6", "9"], "duration": 34816}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/66a.wav", "text": ["6", "6"], "duration": 25600}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/84a.wav", "text": ["8", "4"], "duration": 26112}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/41a.wav", "text": ["4", "1"], "duration": 20480}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/77a.wav", "text": ["7", "7"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/5oa.wav", "text": ["5", "0"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/79a.wav", "text": ["7", "9"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/96a.wav", "text": ["9", "6"], "duration": 25344}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/72a.wav", "text": ["7", "2"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/49a.wav", "text": ["4", "9"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ce/28a.wav", "text": ["2", "8"], "duration": 17920}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/66a.wav", "text": ["6", "6"], "duration": 39936}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/26a.wav", "text": ["2", "6"], "duration": 41728}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/16a.wav", "text": ["1", "6"], "duration": 32256}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/22a.wav", "text": ["2", "2"], "duration": 31232}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/91a.wav", "text": ["9", "1"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/72a.wav", "text": ["7", "2"], "duration": 27136}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/33a.wav", "text": ["3", "3"], "duration": 44032}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/ooa.wav", "text": ["0", "0"], "duration": 29184}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/fa/o4a.wav", "text": ["0", "4"], "duration": 28672}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/46a.wav", "text": ["4", "6"], "duration": 29440}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/27a.wav", "text": ["2", "7"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/51a.wav", "text": ["5", "1"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/76a.wav", "text": ["7", "6"], "duration": 29184}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/94a.wav", "text": ["9", "4"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/74a.wav", "text": ["7", "4"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/75a.wav", "text": ["7", "5"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/6oa.wav", "text": ["6", "0"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bm/65a.wav", "text": ["6", "5"], "duration": 29696}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ja/o1a.wav", "text": ["0", "1"], "duration": 20480}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ja/58a.wav", "text": ["5", "8"], "duration": 20992}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ja/44a.wav", "text": ["4", "4"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ja/73a.wav", "text": ["7", "3"], "duration": 27392}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ja/12a.wav", "text": ["1", "2"], "duration": 19456}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/8oa.wav", "text": ["8", "0"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/23a.wav", "text": ["2", "3"], "duration": 22528}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/o2a.wav", "text": ["0", "2"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/63a.wav", "text": ["6", "3"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/22a.wav", "text": ["2", "2"], "duration": 54272}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/87a.wav", "text": ["8", "7"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/72a.wav", "text": ["7", "2"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/33a.wav", "text": ["3", "3"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/tc/73a.wav", "text": ["7", "3"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/66a.wav", "text": ["6", "6"], "duration": 28416}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/84a.wav", "text": ["8", "4"], "duration": 27392}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/17a.wav", "text": ["1", "7"], "duration": 28672}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/35a.wav", "text": ["3", "5"], "duration": 31744}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/42a.wav", "text": ["4", "2"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/79a.wav", "text": ["7", "9"], "duration": 30464}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/2oa.wav", "text": ["2", "0"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/ooa.wav", "text": ["0", "0"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gw/69a.wav", "text": ["6", "9"], "duration": 36864}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/47a.wav", "text": ["4", "7"], "duration": 23552}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/98a.wav", "text": ["9", "8"], "duration": 19968}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/23a.wav", "text": ["2", "3"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/97a.wav", "text": ["9", "7"], "duration": 23552}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/o3a.wav", "text": ["0", "3"], "duration": 20992}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/14a.wav", "text": ["1", "4"], "duration": 23296}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/43a.wav", "text": ["4", "3"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/3oa.wav", "text": ["3", "0"], "duration": 34816}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/dj/ooa.wav", "text": ["0", "0"], "duration": 19456}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/71a.wav", "text": ["7", "1"], "duration": 29952}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/8oa.wav", "text": ["8", "0"], "duration": 28928}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/99a.wav", "text": ["9", "9"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/36a.wav", "text": ["3", "6"], "duration": 30208}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/44a.wav", "text": ["4", "4"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/25a.wav", "text": ["2", "5"], "duration": 27392}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/49a.wav", "text": ["4", "9"], "duration": 29184}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/32a.wav", "text": ["3", "2"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/im/24a.wav", "text": ["2", "4"], "duration": 26368}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/31a.wav", "text": ["3", "1"], "duration": 17408}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/92a.wav", "text": ["9", "2"], "duration": 19968}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/61a.wav", "text": ["6", "1"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/7oa.wav", "text": ["7", "0"], "duration": 23040}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/14a.wav", "text": ["1", "4"], "duration": 18432}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/25a.wav", "text": ["2", "5"], "duration": 19968}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ip/12a.wav", "text": ["1", "2"], "duration": 19200}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/93a.wav", "text": ["9", "3"], "duration": 27392}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/66a.wav", "text": ["6", "6"], "duration": 33280}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/37a.wav", "text": ["3", "7"], "duration": 23552}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/61a.wav", "text": ["6", "1"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/81a.wav", "text": ["8", "1"], "duration": 22528}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/34a.wav", "text": ["3", "4"], "duration": 28416}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/52a.wav", "text": ["5", "2"], "duration": 28672}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/72a.wav", "text": ["7", "2"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/ed/ooa.wav", "text": ["0", "0"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/89a.wav", "text": ["8", "9"], "duration": 21248}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/67a.wav", "text": ["6", "7"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/76a.wav", "text": ["7", "6"], "duration": 26112}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/21a.wav", "text": ["2", "1"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/41a.wav", "text": ["4", "1"], "duration": 22016}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/58a.wav", "text": ["5", "8"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/54a.wav", "text": ["5", "4"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/bc/75a.wav", "text": ["7", "5"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/85a.wav", "text": ["8", "5"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/66a.wav", "text": ["6", "6"], "duration": 28928}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/47a.wav", "text": ["4", "7"], "duration": 23296}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/51a.wav", "text": ["5", "1"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/99a.wav", "text": ["9", "9"], "duration": 29440}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/97a.wav", "text": ["9", "7"], "duration": 23296}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/o3a.wav", "text": ["0", "3"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/63a.wav", "text": ["6", "3"], "duration": 27136}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hr/49a.wav", "text": ["4", "9"], "duration": 26112}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/27a.wav", "text": ["2", "7"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/71a.wav", "text": ["7", "1"], "duration": 30720}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/37a.wav", "text": ["3", "7"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/16a.wav", "text": ["1", "6"], "duration": 30976}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/35a.wav", "text": ["3", "5"], "duration": 28672}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/38a.wav", "text": ["3", "8"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/22a.wav", "text": ["2", "2"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/68a.wav", "text": ["6", "8"], "duration": 23040}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/df/ooa.wav", "text": ["0", "0"], "duration": 23552}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/o6a.wav", "text": ["0", "6"], "duration": 23296}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/99a.wav", "text": ["9", "9"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/57a.wav", "text": ["5", "7"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/3oa.wav", "text": ["3", "0"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/63a.wav", "text": ["6", "3"], "duration": 27136}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/44a.wav", "text": ["4", "4"], "duration": 26368}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/6oa.wav", "text": ["6", "0"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/o9a.wav", "text": ["0", "9"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/lg/24a.wav", "text": ["2", "4"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/89a.wav", "text": ["8", "9"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/26a.wav", "text": ["2", "6"], "duration": 23040}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/47a.wav", "text": ["4", "7"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/o3a.wav", "text": ["0", "3"], "duration": 23808}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/43a.wav", "text": ["4", "3"], "duration": 22784}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/3oa.wav", "text": ["3", "0"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/25a.wav", "text": ["2", "5"], "duration": 19968}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/48a.wav", "text": ["4", "8"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/nt/32a.wav", "text": ["3", "2"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/11a.wav", "text": ["1", "1"], "duration": 30208}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/71a.wav", "text": ["7", "1"], "duration": 32256}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/98a.wav", "text": ["9", "8"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/42a.wav", "text": ["4", "2"], "duration": 23552}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/o3a.wav", "text": ["0", "3"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/34a.wav", "text": ["3", "4"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/87a.wav", "text": ["8", "7"], "duration": 28928}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/64a.wav", "text": ["6", "4"], "duration": 27392}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/ooa.wav", "text": ["0", "0"], "duration": 21504}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hc/86a.wav", "text": ["8", "6"], "duration": 27648}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/51a.wav", "text": ["5", "1"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/21a.wav", "text": ["2", "1"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/57a.wav", "text": ["5", "7"], "duration": 26368}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/7oa.wav", "text": ["7", "0"], "duration": 36608}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/81a.wav", "text": ["8", "1"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/o3a.wav", "text": ["0", "3"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/55a.wav", "text": ["5", "5"], "duration": 24064}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/25a.wav", "text": ["2", "5"], "duration": 25856}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/2oa.wav", "text": ["2", "0"], "duration": 22528}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/hj/ooa.wav", "text": ["0", "0"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/42a.wav", "text": ["4", "2"], "duration": 22016}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/5oa.wav", "text": ["5", "0"], "duration": 20224}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/96a.wav", "text": ["9", "6"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/59a.wav", "text": ["5", "9"], "duration": 21760}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/3oa.wav", "text": ["3", "0"], "duration": 16896}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/72a.wav", "text": ["7", "2"], "duration": 23040}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/24a.wav", "text": ["2", "4"], "duration": 19456}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/53a.wav", "text": ["5", "3"], "duration": 22016}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/12a.wav", "text": ["1", "2"], "duration": 17152}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/mi/45a.wav", "text": ["4", "5"], "duration": 19200}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/66a.wav", "text": ["6", "6"], "duration": 27904}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/47a.wav", "text": ["4", "7"], "duration": 24576}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/37a.wav", "text": ["3", "7"], "duration": 24832}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/o1a.wav", "text": ["0", "1"], "duration": 22016}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/95a.wav", "text": ["9", "5"], "duration": 24320}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/15a.wav", "text": ["1", "5"], "duration": 25088}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/o3a.wav", "text": ["0", "3"], "duration": 23552}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/38a.wav", "text": ["3", "8"], "duration": 20736}
-{"audio": "/content/drive/My Drive/MLSS2019/tutorials/rnn/data/test/gp/13a.wav", "text": ["1", "3"], "duration": 20992}
+{"audio": "rnn/data/test/le/56a.wav", "text": ["5", "6"], "duration": 24064}
+{"audio": "rnn/data/test/le/95a.wav", "text": ["9", "5"], "duration": 22528}
+{"audio": "rnn/data/test/le/41a.wav", "text": ["4", "1"], "duration": 25600}
+{"audio": "rnn/data/test/le/78a.wav", "text": ["7", "8"], "duration": 23808}
+{"audio": "rnn/data/test/le/o3a.wav", "text": ["0", "3"], "duration": 25088}
+{"audio": "rnn/data/test/le/o5a.wav", "text": ["0", "5"], "duration": 22784}
+{"audio": "rnn/data/test/le/25a.wav", "text": ["2", "5"], "duration": 28928}
+{"audio": "rnn/data/test/le/o8a.wav", "text": ["0", "8"], "duration": 17408}
+{"audio": "rnn/data/test/le/32a.wav", "text": ["3", "2"], "duration": 21248}
+{"audio": "rnn/data/test/le/69a.wav", "text": ["6", "9"], "duration": 24832}
+{"audio": "rnn/data/test/hm/11a.wav", "text": ["1", "1"], "duration": 33024}
+{"audio": "rnn/data/test/hm/26a.wav", "text": ["2", "6"], "duration": 38656}
+{"audio": "rnn/data/test/hm/47a.wav", "text": ["4", "7"], "duration": 36864}
+{"audio": "rnn/data/test/hm/42a.wav", "text": ["4", "2"], "duration": 32256}
+{"audio": "rnn/data/test/hm/1oa.wav", "text": ["1", "0"], "duration": 29440}
+{"audio": "rnn/data/test/hm/65a.wav", "text": ["6", "5"], "duration": 55296}
+{"audio": "rnn/data/test/hm/53a.wav", "text": ["5", "3"], "duration": 38144}
+{"audio": "rnn/data/test/hm/ooa.wav", "text": ["0", "0"], "duration": 33536}
+{"audio": "rnn/data/test/ib/56a.wav", "text": ["5", "6"], "duration": 27648}
+{"audio": "rnn/data/test/ib/17a.wav", "text": ["1", "7"], "duration": 20736}
+{"audio": "rnn/data/test/ib/83a.wav", "text": ["8", "3"], "duration": 22528}
+{"audio": "rnn/data/test/ib/57a.wav", "text": ["5", "7"], "duration": 21504}
+{"audio": "rnn/data/test/ib/97a.wav", "text": ["9", "7"], "duration": 25856}
+{"audio": "rnn/data/test/ib/91a.wav", "text": ["9", "1"], "duration": 21504}
+{"audio": "rnn/data/test/ib/o5a.wav", "text": ["0", "5"], "duration": 21504}
+{"audio": "rnn/data/test/ib/12a.wav", "text": ["1", "2"], "duration": 20224}
+{"audio": "rnn/data/test/ib/28a.wav", "text": ["2", "8"], "duration": 18432}
+{"audio": "rnn/data/test/fs/93a.wav", "text": ["9", "3"], "duration": 24832}
+{"audio": "rnn/data/test/fs/83a.wav", "text": ["8", "3"], "duration": 21760}
+{"audio": "rnn/data/test/fs/94a.wav", "text": ["9", "4"], "duration": 22784}
+{"audio": "rnn/data/test/fs/42a.wav", "text": ["4", "2"], "duration": 21248}
+{"audio": "rnn/data/test/fs/o2a.wav", "text": ["0", "2"], "duration": 19456}
+{"audio": "rnn/data/test/fs/59a.wav", "text": ["5", "9"], "duration": 25088}
+{"audio": "rnn/data/test/fs/6oa.wav", "text": ["6", "0"], "duration": 24832}
+{"audio": "rnn/data/test/fs/24a.wav", "text": ["2", "4"], "duration": 20736}
+{"audio": "rnn/data/test/fs/ooa.wav", "text": ["0", "0"], "duration": 30720}
+{"audio": "rnn/data/test/fs/69a.wav", "text": ["6", "9"], "duration": 25856}
+{"audio": "rnn/data/test/fh/88a.wav", "text": ["8", "8"], "duration": 20736}
+{"audio": "rnn/data/test/fh/81a.wav", "text": ["8", "1"], "duration": 26624}
+{"audio": "rnn/data/test/fh/39a.wav", "text": ["3", "9"], "duration": 22784}
+{"audio": "rnn/data/test/fh/42a.wav", "text": ["4", "2"], "duration": 29184}
+{"audio": "rnn/data/test/fh/54a.wav", "text": ["5", "4"], "duration": 23040}
+{"audio": "rnn/data/test/fh/59a.wav", "text": ["5", "9"], "duration": 21248}
+{"audio": "rnn/data/test/fh/75a.wav", "text": ["7", "5"], "duration": 30208}
+{"audio": "rnn/data/test/fh/29a.wav", "text": ["2", "9"], "duration": 21760}
+{"audio": "rnn/data/test/fh/65a.wav", "text": ["6", "5"], "duration": 27136}
+{"audio": "rnn/data/test/at/7oa.wav", "text": ["7", "0"], "duration": 20992}
+{"audio": "rnn/data/test/at/14a.wav", "text": ["1", "4"], "duration": 20736}
+{"audio": "rnn/data/test/at/79a.wav", "text": ["7", "9"], "duration": 30208}
+{"audio": "rnn/data/test/at/63a.wav", "text": ["6", "3"], "duration": 28672}
+{"audio": "rnn/data/test/at/29a.wav", "text": ["2", "9"], "duration": 28160}
+{"audio": "rnn/data/test/at/64a.wav", "text": ["6", "4"], "duration": 27648}
+{"audio": "rnn/data/test/at/53a.wav", "text": ["5", "3"], "duration": 21248}
+{"audio": "rnn/data/test/at/69a.wav", "text": ["6", "9"], "duration": 31488}
+{"audio": "rnn/data/test/gs/46a.wav", "text": ["4", "6"], "duration": 33024}
+{"audio": "rnn/data/test/gs/88a.wav", "text": ["8", "8"], "duration": 24064}
+{"audio": "rnn/data/test/gs/41a.wav", "text": ["4", "1"], "duration": 31232}
+{"audio": "rnn/data/test/gs/62a.wav", "text": ["6", "2"], "duration": 25600}
+{"audio": "rnn/data/test/gs/34a.wav", "text": ["3", "4"], "duration": 27648}
+{"audio": "rnn/data/test/gs/87a.wav", "text": ["8", "7"], "duration": 24832}
+{"audio": "rnn/data/test/gs/53a.wav", "text": ["5", "3"], "duration": 26112}
+{"audio": "rnn/data/test/gs/69a.wav", "text": ["6", "9"], "duration": 29952}
+{"audio": "rnn/data/test/ia/66a.wav", "text": ["6", "6"], "duration": 32512}
+{"audio": "rnn/data/test/ia/47a.wav", "text": ["4", "7"], "duration": 24320}
+{"audio": "rnn/data/test/ia/21a.wav", "text": ["2", "1"], "duration": 22528}
+{"audio": "rnn/data/test/ia/9oa.wav", "text": ["9", "0"], "duration": 25344}
+{"audio": "rnn/data/test/ia/57a.wav", "text": ["5", "7"], "duration": 23808}
+{"audio": "rnn/data/test/ia/58a.wav", "text": ["5", "8"], "duration": 25856}
+{"audio": "rnn/data/test/ia/91a.wav", "text": ["9", "1"], "duration": 26880}
+{"audio": "rnn/data/test/ia/25a.wav", "text": ["2", "5"], "duration": 27392}
+{"audio": "rnn/data/test/ia/ooa.wav", "text": ["0", "0"], "duration": 24064}
+{"audio": "rnn/data/test/be/56a.wav", "text": ["5", "6"], "duration": 21504}
+{"audio": "rnn/data/test/be/35a.wav", "text": ["3", "5"], "duration": 20480}
+{"audio": "rnn/data/test/be/58a.wav", "text": ["5", "8"], "duration": 18432}
+{"audio": "rnn/data/test/be/39a.wav", "text": ["3", "9"], "duration": 19200}
+{"audio": "rnn/data/test/be/14a.wav", "text": ["1", "4"], "duration": 19712}
+{"audio": "rnn/data/test/be/63a.wav", "text": ["6", "3"], "duration": 20736}
+{"audio": "rnn/data/test/be/68a.wav", "text": ["6", "8"], "duration": 19200}
+{"audio": "rnn/data/test/be/o5a.wav", "text": ["0", "5"], "duration": 19200}
+{"audio": "rnn/data/test/be/52a.wav", "text": ["5", "2"], "duration": 20224}
+{"audio": "rnn/data/test/be/o4a.wav", "text": ["0", "4"], "duration": 18688}
+{"audio": "rnn/data/test/fm/11a.wav", "text": ["1", "1"], "duration": 23808}
+{"audio": "rnn/data/test/fm/77a.wav", "text": ["7", "7"], "duration": 30720}
+{"audio": "rnn/data/test/fm/23a.wav", "text": ["2", "3"], "duration": 28160}
+{"audio": "rnn/data/test/fm/74a.wav", "text": ["7", "4"], "duration": 31744}
+{"audio": "rnn/data/test/fm/97a.wav", "text": ["9", "7"], "duration": 29440}
+{"audio": "rnn/data/test/fm/34a.wav", "text": ["3", "4"], "duration": 29696}
+{"audio": "rnn/data/test/fm/75a.wav", "text": ["7", "5"], "duration": 29440}
+{"audio": "rnn/data/test/fm/87a.wav", "text": ["8", "7"], "duration": 25600}
+{"audio": "rnn/data/test/fm/6oa.wav", "text": ["6", "0"], "duration": 27904}
+{"audio": "rnn/data/test/fm/69a.wav", "text": ["6", "9"], "duration": 30976}
+{"audio": "rnn/data/test/cp/46a.wav", "text": ["4", "6"], "duration": 26624}
+{"audio": "rnn/data/test/cp/93a.wav", "text": ["9", "3"], "duration": 26880}
+{"audio": "rnn/data/test/cp/84a.wav", "text": ["8", "4"], "duration": 23040}
+{"audio": "rnn/data/test/cp/98a.wav", "text": ["9", "8"], "duration": 26624}
+{"audio": "rnn/data/test/cp/35a.wav", "text": ["3", "5"], "duration": 25856}
+{"audio": "rnn/data/test/cp/58a.wav", "text": ["5", "8"], "duration": 25344}
+{"audio": "rnn/data/test/cp/14a.wav", "text": ["1", "4"], "duration": 27904}
+{"audio": "rnn/data/test/cp/72a.wav", "text": ["7", "2"], "duration": 26880}
+{"audio": "rnn/data/test/cp/ooa.wav", "text": ["0", "0"], "duration": 24576}
+{"audio": "rnn/data/test/pg/93a.wav", "text": ["9", "3"], "duration": 30976}
+{"audio": "rnn/data/test/pg/66a.wav", "text": ["6", "6"], "duration": 41472}
+{"audio": "rnn/data/test/pg/94a.wav", "text": ["9", "4"], "duration": 29696}
+{"audio": "rnn/data/test/pg/16a.wav", "text": ["1", "6"], "duration": 30208}
+{"audio": "rnn/data/test/pg/19a.wav", "text": ["1", "9"], "duration": 30208}
+{"audio": "rnn/data/test/pg/96a.wav", "text": ["9", "6"], "duration": 29184}
+{"audio": "rnn/data/test/pg/68a.wav", "text": ["6", "8"], "duration": 31744}
+{"audio": "rnn/data/test/pg/87a.wav", "text": ["8", "7"], "duration": 28160}
+{"audio": "rnn/data/test/fg/88a.wav", "text": ["8", "8"], "duration": 25856}
+{"audio": "rnn/data/test/fg/o6a.wav", "text": ["0", "6"], "duration": 29696}
+{"audio": "rnn/data/test/fg/35a.wav", "text": ["3", "5"], "duration": 36608}
+{"audio": "rnn/data/test/fg/18a.wav", "text": ["1", "8"], "duration": 34560}
+{"audio": "rnn/data/test/fg/22a.wav", "text": ["2", "2"], "duration": 22784}
+{"audio": "rnn/data/test/fg/44a.wav", "text": ["4", "4"], "duration": 25856}
+{"audio": "rnn/data/test/fg/49a.wav", "text": ["4", "9"], "duration": 33792}
+{"audio": "rnn/data/test/fg/32a.wav", "text": ["3", "2"], "duration": 24832}
+{"audio": "rnn/data/test/fg/65a.wav", "text": ["6", "5"], "duration": 37120}
+{"audio": "rnn/data/test/fg/69a.wav", "text": ["6", "9"], "duration": 34816}
+{"audio": "rnn/data/test/ce/66a.wav", "text": ["6", "6"], "duration": 25600}
+{"audio": "rnn/data/test/ce/84a.wav", "text": ["8", "4"], "duration": 26112}
+{"audio": "rnn/data/test/ce/41a.wav", "text": ["4", "1"], "duration": 20480}
+{"audio": "rnn/data/test/ce/77a.wav", "text": ["7", "7"], "duration": 24832}
+{"audio": "rnn/data/test/ce/5oa.wav", "text": ["5", "0"], "duration": 23808}
+{"audio": "rnn/data/test/ce/79a.wav", "text": ["7", "9"], "duration": 22784}
+{"audio": "rnn/data/test/ce/96a.wav", "text": ["9", "6"], "duration": 25344}
+{"audio": "rnn/data/test/ce/72a.wav", "text": ["7", "2"], "duration": 22784}
+{"audio": "rnn/data/test/ce/49a.wav", "text": ["4", "9"], "duration": 20224}
+{"audio": "rnn/data/test/ce/28a.wav", "text": ["2", "8"], "duration": 17920}
+{"audio": "rnn/data/test/fa/66a.wav", "text": ["6", "6"], "duration": 39936}
+{"audio": "rnn/data/test/fa/26a.wav", "text": ["2", "6"], "duration": 41728}
+{"audio": "rnn/data/test/fa/16a.wav", "text": ["1", "6"], "duration": 32256}
+{"audio": "rnn/data/test/fa/22a.wav", "text": ["2", "2"], "duration": 31232}
+{"audio": "rnn/data/test/fa/91a.wav", "text": ["9", "1"], "duration": 25088}
+{"audio": "rnn/data/test/fa/72a.wav", "text": ["7", "2"], "duration": 27136}
+{"audio": "rnn/data/test/fa/33a.wav", "text": ["3", "3"], "duration": 44032}
+{"audio": "rnn/data/test/fa/ooa.wav", "text": ["0", "0"], "duration": 29184}
+{"audio": "rnn/data/test/fa/o4a.wav", "text": ["0", "4"], "duration": 28672}
+{"audio": "rnn/data/test/bm/46a.wav", "text": ["4", "6"], "duration": 29440}
+{"audio": "rnn/data/test/bm/27a.wav", "text": ["2", "7"], "duration": 24320}
+{"audio": "rnn/data/test/bm/51a.wav", "text": ["5", "1"], "duration": 24576}
+{"audio": "rnn/data/test/bm/76a.wav", "text": ["7", "6"], "duration": 29184}
+{"audio": "rnn/data/test/bm/94a.wav", "text": ["9", "4"], "duration": 23808}
+{"audio": "rnn/data/test/bm/74a.wav", "text": ["7", "4"], "duration": 27904}
+{"audio": "rnn/data/test/bm/75a.wav", "text": ["7", "5"], "duration": 27904}
+{"audio": "rnn/data/test/bm/6oa.wav", "text": ["6", "0"], "duration": 25088}
+{"audio": "rnn/data/test/bm/65a.wav", "text": ["6", "5"], "duration": 29696}
+{"audio": "rnn/data/test/ja/o1a.wav", "text": ["0", "1"], "duration": 20480}
+{"audio": "rnn/data/test/ja/58a.wav", "text": ["5", "8"], "duration": 20992}
+{"audio": "rnn/data/test/ja/44a.wav", "text": ["4", "4"], "duration": 21504}
+{"audio": "rnn/data/test/ja/73a.wav", "text": ["7", "3"], "duration": 27392}
+{"audio": "rnn/data/test/ja/12a.wav", "text": ["1", "2"], "duration": 19456}
+{"audio": "rnn/data/test/tc/8oa.wav", "text": ["8", "0"], "duration": 22784}
+{"audio": "rnn/data/test/tc/23a.wav", "text": ["2", "3"], "duration": 22528}
+{"audio": "rnn/data/test/tc/o2a.wav", "text": ["0", "2"], "duration": 23808}
+{"audio": "rnn/data/test/tc/63a.wav", "text": ["6", "3"], "duration": 24832}
+{"audio": "rnn/data/test/tc/22a.wav", "text": ["2", "2"], "duration": 54272}
+{"audio": "rnn/data/test/tc/87a.wav", "text": ["8", "7"], "duration": 25856}
+{"audio": "rnn/data/test/tc/72a.wav", "text": ["7", "2"], "duration": 25856}
+{"audio": "rnn/data/test/tc/33a.wav", "text": ["3", "3"], "duration": 25088}
+{"audio": "rnn/data/test/tc/73a.wav", "text": ["7", "3"], "duration": 25088}
+{"audio": "rnn/data/test/gw/66a.wav", "text": ["6", "6"], "duration": 28416}
+{"audio": "rnn/data/test/gw/84a.wav", "text": ["8", "4"], "duration": 27392}
+{"audio": "rnn/data/test/gw/17a.wav", "text": ["1", "7"], "duration": 28672}
+{"audio": "rnn/data/test/gw/35a.wav", "text": ["3", "5"], "duration": 31744}
+{"audio": "rnn/data/test/gw/42a.wav", "text": ["4", "2"], "duration": 27904}
+{"audio": "rnn/data/test/gw/79a.wav", "text": ["7", "9"], "duration": 30464}
+{"audio": "rnn/data/test/gw/2oa.wav", "text": ["2", "0"], "duration": 21760}
+{"audio": "rnn/data/test/gw/ooa.wav", "text": ["0", "0"], "duration": 24064}
+{"audio": "rnn/data/test/gw/69a.wav", "text": ["6", "9"], "duration": 36864}
+{"audio": "rnn/data/test/dj/47a.wav", "text": ["4", "7"], "duration": 23552}
+{"audio": "rnn/data/test/dj/98a.wav", "text": ["9", "8"], "duration": 19968}
+{"audio": "rnn/data/test/dj/23a.wav", "text": ["2", "3"], "duration": 20736}
+{"audio": "rnn/data/test/dj/97a.wav", "text": ["9", "7"], "duration": 23552}
+{"audio": "rnn/data/test/dj/o3a.wav", "text": ["0", "3"], "duration": 20992}
+{"audio": "rnn/data/test/dj/14a.wav", "text": ["1", "4"], "duration": 23296}
+{"audio": "rnn/data/test/dj/43a.wav", "text": ["4", "3"], "duration": 21760}
+{"audio": "rnn/data/test/dj/3oa.wav", "text": ["3", "0"], "duration": 34816}
+{"audio": "rnn/data/test/dj/ooa.wav", "text": ["0", "0"], "duration": 19456}
+{"audio": "rnn/data/test/im/71a.wav", "text": ["7", "1"], "duration": 29952}
+{"audio": "rnn/data/test/im/8oa.wav", "text": ["8", "0"], "duration": 28928}
+{"audio": "rnn/data/test/im/99a.wav", "text": ["9", "9"], "duration": 27904}
+{"audio": "rnn/data/test/im/36a.wav", "text": ["3", "6"], "duration": 30208}
+{"audio": "rnn/data/test/im/44a.wav", "text": ["4", "4"], "duration": 27904}
+{"audio": "rnn/data/test/im/25a.wav", "text": ["2", "5"], "duration": 27392}
+{"audio": "rnn/data/test/im/49a.wav", "text": ["4", "9"], "duration": 29184}
+{"audio": "rnn/data/test/im/32a.wav", "text": ["3", "2"], "duration": 24832}
+{"audio": "rnn/data/test/im/24a.wav", "text": ["2", "4"], "duration": 26368}
+{"audio": "rnn/data/test/ip/31a.wav", "text": ["3", "1"], "duration": 17408}
+{"audio": "rnn/data/test/ip/92a.wav", "text": ["9", "2"], "duration": 19968}
+{"audio": "rnn/data/test/ip/61a.wav", "text": ["6", "1"], "duration": 20224}
+{"audio": "rnn/data/test/ip/7oa.wav", "text": ["7", "0"], "duration": 23040}
+{"audio": "rnn/data/test/ip/14a.wav", "text": ["1", "4"], "duration": 18432}
+{"audio": "rnn/data/test/ip/25a.wav", "text": ["2", "5"], "duration": 19968}
+{"audio": "rnn/data/test/ip/12a.wav", "text": ["1", "2"], "duration": 19200}
+{"audio": "rnn/data/test/ed/93a.wav", "text": ["9", "3"], "duration": 27392}
+{"audio": "rnn/data/test/ed/66a.wav", "text": ["6", "6"], "duration": 33280}
+{"audio": "rnn/data/test/ed/37a.wav", "text": ["3", "7"], "duration": 23552}
+{"audio": "rnn/data/test/ed/61a.wav", "text": ["6", "1"], "duration": 25856}
+{"audio": "rnn/data/test/ed/81a.wav", "text": ["8", "1"], "duration": 22528}
+{"audio": "rnn/data/test/ed/34a.wav", "text": ["3", "4"], "duration": 28416}
+{"audio": "rnn/data/test/ed/52a.wav", "text": ["5", "2"], "duration": 28672}
+{"audio": "rnn/data/test/ed/72a.wav", "text": ["7", "2"], "duration": 25088}
+{"audio": "rnn/data/test/ed/ooa.wav", "text": ["0", "0"], "duration": 24832}
+{"audio": "rnn/data/test/bc/89a.wav", "text": ["8", "9"], "duration": 21248}
+{"audio": "rnn/data/test/bc/67a.wav", "text": ["6", "7"], "duration": 24832}
+{"audio": "rnn/data/test/bc/76a.wav", "text": ["7", "6"], "duration": 26112}
+{"audio": "rnn/data/test/bc/21a.wav", "text": ["2", "1"], "duration": 20224}
+{"audio": "rnn/data/test/bc/41a.wav", "text": ["4", "1"], "duration": 22016}
+{"audio": "rnn/data/test/bc/58a.wav", "text": ["5", "8"], "duration": 21504}
+{"audio": "rnn/data/test/bc/54a.wav", "text": ["5", "4"], "duration": 22784}
+{"audio": "rnn/data/test/bc/75a.wav", "text": ["7", "5"], "duration": 24320}
+{"audio": "rnn/data/test/hr/85a.wav", "text": ["8", "5"], "duration": 24064}
+{"audio": "rnn/data/test/hr/66a.wav", "text": ["6", "6"], "duration": 28928}
+{"audio": "rnn/data/test/hr/47a.wav", "text": ["4", "7"], "duration": 23296}
+{"audio": "rnn/data/test/hr/51a.wav", "text": ["5", "1"], "duration": 21760}
+{"audio": "rnn/data/test/hr/99a.wav", "text": ["9", "9"], "duration": 29440}
+{"audio": "rnn/data/test/hr/97a.wav", "text": ["9", "7"], "duration": 23296}
+{"audio": "rnn/data/test/hr/o3a.wav", "text": ["0", "3"], "duration": 20736}
+{"audio": "rnn/data/test/hr/63a.wav", "text": ["6", "3"], "duration": 27136}
+{"audio": "rnn/data/test/hr/49a.wav", "text": ["4", "9"], "duration": 26112}
+{"audio": "rnn/data/test/df/27a.wav", "text": ["2", "7"], "duration": 24576}
+{"audio": "rnn/data/test/df/71a.wav", "text": ["7", "1"], "duration": 30720}
+{"audio": "rnn/data/test/df/37a.wav", "text": ["3", "7"], "duration": 24576}
+{"audio": "rnn/data/test/df/16a.wav", "text": ["1", "6"], "duration": 30976}
+{"audio": "rnn/data/test/df/35a.wav", "text": ["3", "5"], "duration": 28672}
+{"audio": "rnn/data/test/df/38a.wav", "text": ["3", "8"], "duration": 25856}
+{"audio": "rnn/data/test/df/22a.wav", "text": ["2", "2"], "duration": 25856}
+{"audio": "rnn/data/test/df/68a.wav", "text": ["6", "8"], "duration": 23040}
+{"audio": "rnn/data/test/df/ooa.wav", "text": ["0", "0"], "duration": 23552}
+{"audio": "rnn/data/test/lg/o6a.wav", "text": ["0", "6"], "duration": 23296}
+{"audio": "rnn/data/test/lg/99a.wav", "text": ["9", "9"], "duration": 22784}
+{"audio": "rnn/data/test/lg/57a.wav", "text": ["5", "7"], "duration": 24064}
+{"audio": "rnn/data/test/lg/3oa.wav", "text": ["3", "0"], "duration": 22784}
+{"audio": "rnn/data/test/lg/63a.wav", "text": ["6", "3"], "duration": 27136}
+{"audio": "rnn/data/test/lg/44a.wav", "text": ["4", "4"], "duration": 26368}
+{"audio": "rnn/data/test/lg/6oa.wav", "text": ["6", "0"], "duration": 25856}
+{"audio": "rnn/data/test/lg/o9a.wav", "text": ["0", "9"], "duration": 24320}
+{"audio": "rnn/data/test/lg/24a.wav", "text": ["2", "4"], "duration": 21760}
+{"audio": "rnn/data/test/nt/89a.wav", "text": ["8", "9"], "duration": 22784}
+{"audio": "rnn/data/test/nt/26a.wav", "text": ["2", "6"], "duration": 23040}
+{"audio": "rnn/data/test/nt/47a.wav", "text": ["4", "7"], "duration": 21760}
+{"audio": "rnn/data/test/nt/o3a.wav", "text": ["0", "3"], "duration": 23808}
+{"audio": "rnn/data/test/nt/43a.wav", "text": ["4", "3"], "duration": 22784}
+{"audio": "rnn/data/test/nt/3oa.wav", "text": ["3", "0"], "duration": 20224}
+{"audio": "rnn/data/test/nt/25a.wav", "text": ["2", "5"], "duration": 19968}
+{"audio": "rnn/data/test/nt/48a.wav", "text": ["4", "8"], "duration": 21504}
+{"audio": "rnn/data/test/nt/32a.wav", "text": ["3", "2"], "duration": 21760}
+{"audio": "rnn/data/test/hc/11a.wav", "text": ["1", "1"], "duration": 30208}
+{"audio": "rnn/data/test/hc/71a.wav", "text": ["7", "1"], "duration": 32256}
+{"audio": "rnn/data/test/hc/98a.wav", "text": ["9", "8"], "duration": 24576}
+{"audio": "rnn/data/test/hc/42a.wav", "text": ["4", "2"], "duration": 23552}
+{"audio": "rnn/data/test/hc/o3a.wav", "text": ["0", "3"], "duration": 24320}
+{"audio": "rnn/data/test/hc/34a.wav", "text": ["3", "4"], "duration": 24832}
+{"audio": "rnn/data/test/hc/87a.wav", "text": ["8", "7"], "duration": 28928}
+{"audio": "rnn/data/test/hc/64a.wav", "text": ["6", "4"], "duration": 27392}
+{"audio": "rnn/data/test/hc/ooa.wav", "text": ["0", "0"], "duration": 21504}
+{"audio": "rnn/data/test/hc/86a.wav", "text": ["8", "6"], "duration": 27648}
+{"audio": "rnn/data/test/hj/51a.wav", "text": ["5", "1"], "duration": 24832}
+{"audio": "rnn/data/test/hj/21a.wav", "text": ["2", "1"], "duration": 24320}
+{"audio": "rnn/data/test/hj/57a.wav", "text": ["5", "7"], "duration": 26368}
+{"audio": "rnn/data/test/hj/7oa.wav", "text": ["7", "0"], "duration": 36608}
+{"audio": "rnn/data/test/hj/81a.wav", "text": ["8", "1"], "duration": 25856}
+{"audio": "rnn/data/test/hj/o3a.wav", "text": ["0", "3"], "duration": 24832}
+{"audio": "rnn/data/test/hj/55a.wav", "text": ["5", "5"], "duration": 24064}
+{"audio": "rnn/data/test/hj/25a.wav", "text": ["2", "5"], "duration": 25856}
+{"audio": "rnn/data/test/hj/2oa.wav", "text": ["2", "0"], "duration": 22528}
+{"audio": "rnn/data/test/hj/ooa.wav", "text": ["0", "0"], "duration": 24320}
+{"audio": "rnn/data/test/mi/42a.wav", "text": ["4", "2"], "duration": 22016}
+{"audio": "rnn/data/test/mi/5oa.wav", "text": ["5", "0"], "duration": 20224}
+{"audio": "rnn/data/test/mi/96a.wav", "text": ["9", "6"], "duration": 24576}
+{"audio": "rnn/data/test/mi/59a.wav", "text": ["5", "9"], "duration": 21760}
+{"audio": "rnn/data/test/mi/3oa.wav", "text": ["3", "0"], "duration": 16896}
+{"audio": "rnn/data/test/mi/72a.wav", "text": ["7", "2"], "duration": 23040}
+{"audio": "rnn/data/test/mi/24a.wav", "text": ["2", "4"], "duration": 19456}
+{"audio": "rnn/data/test/mi/53a.wav", "text": ["5", "3"], "duration": 22016}
+{"audio": "rnn/data/test/mi/12a.wav", "text": ["1", "2"], "duration": 17152}
+{"audio": "rnn/data/test/mi/45a.wav", "text": ["4", "5"], "duration": 19200}
+{"audio": "rnn/data/test/gp/66a.wav", "text": ["6", "6"], "duration": 27904}
+{"audio": "rnn/data/test/gp/47a.wav", "text": ["4", "7"], "duration": 24576}
+{"audio": "rnn/data/test/gp/37a.wav", "text": ["3", "7"], "duration": 24832}
+{"audio": "rnn/data/test/gp/o1a.wav", "text": ["0", "1"], "duration": 22016}
+{"audio": "rnn/data/test/gp/95a.wav", "text": ["9", "5"], "duration": 24320}
+{"audio": "rnn/data/test/gp/15a.wav", "text": ["1", "5"], "duration": 25088}
+{"audio": "rnn/data/test/gp/o3a.wav", "text": ["0", "3"], "duration": 23552}
+{"audio": "rnn/data/test/gp/38a.wav", "text": ["3", "8"], "duration": 20736}
+{"audio": "rnn/data/test/gp/13a.wav", "text": ["1", "3"], "duration": 20992}
