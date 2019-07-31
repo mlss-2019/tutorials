@@ -1,0 +1,191 @@
+* README
+MLSS 2019 will have interactive and practical tutorials in the following subjects
+
+- Deep Learning
+- Optimization
+- Variational Inference
+- Reinforcement Learning
+- Gaussian Processes
+- Kernels
+- Markov Chain Monte Carlo
+- Approximate Bayesian Computation
+- Speech Processing
+- ML in Computational Biology
+
+Since many of these tutorials require the participants to install software with
+sometimes complex dependencies which means the installation process will differ
+between platforms (e.g Linux, OSX and Windows) and to make sure the tutorials
+run smoothly, we have prepared ways for everyone to come prepared and reduce
+technical issues to minimum. 
+
+This means we will get more time for the actual content!
+
+** How to read this README
+Since the tutorials differ in terms of programming languages used and how the
+tutorials will be run, each tutorial will get its own section where instructions
+on how to get started and get the environment for this tutorial up and running.
+
+Most of the tutorials will be run from a [[https://docker-curriculum.com/#docker-images][docker image]] that we have created. If
+you want to read more about docker this can be done [[https://docker-curriculum.com/#docker-images][here]].
+
+** Docker
+:PROPERTIES:
+:CUSTOM_ID: Docker-heading
+:END:
+
+We have created a docker image that runs a jupyter notebook with kernels for the
+tutorials which you will be access through ~localhost:8888~ in your browser
+after you follow the guide below.
+
+*** Install Docker
+Follow these instruction to install docker. If you follow the guide, everything
+should be fine. If you still have problem, please ask in the Slack general
+channel or ping me (@Isak Falk) anywhere on the MLSS2019 Slack :)
+
+1. Install docker on your platform (Community Edition (CE), not Enterprise
+   Edition (EE))
+   - Linux
+     - [[https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04][Ubuntu]]
+     - [[https://docs.docker.com/v17.12/install/#server][Linux (general)]]
+   - [[https://docs.docker.com/v17.12/docker-for-mac/install/#what-to-know-before-you-install][OSX / Mac]]
+   - [[https://docs.docker.com/v17.12/docker-for-windows/install/][Windows]]
+2. (/Linux only/) Add your user to the docker group by running
+   #+begin_src bash
+   sudo usermod -a -G docker $USER
+   #+end_src
+   in a terminal. This will enable you to run ~docker~ commands without using ~sudo~.
+3. Make sure Docker works
+   - Command line / terminal :: In a terminal run ~docker run hello-world~, this will give an
+              output similar to this
+              #+begin_export ascii
+              Output
+              Unable to find image 'hello-world:latest' locally
+              latest: Pulling from library/hello-world
+              9bb5a5d4561a: Pull complete
+              Digest: sha256:3e1764d0f546ceac4565547df2ac4907fe46f007ea229fd7ef2718514bcec35d
+              Status: Downloaded newer image for hello-world:latest
+
+              Hello from Docker!
+              This message shows that your installation appears to be working correctly.
+              ...
+              #+end_export
+   - Application :: Make sure the Docker application is installed and that you
+                    can find the icon when you search for it (this will depend
+                    on your system)
+
+*** Pull MLSS docker image
+Pull the MLSS docker image to your computer, this image is located [[https://cloud.docker.com/u/isakfalk/repository/docker/isakfalk/mlss][here]].
+
+Run the following in a terminal
+#+begin_src bash
+docker pull isakfalk/mlss:latest
+#+end_src
+
+This will make the image available to you on your system. The image is a bit
+large (3gb compressed, 7gb uncompressed), this is normal, don't worry about it.
+
+*** Run docker image with Jupyter
+:PROPERTIES:
+:CUSTOM_ID: Docker-jupyter-heading
+:END:
+In order to get jupyter working, do the following from a terminal (note: this is
+how I do it on Linux, let me know if we need to do it another way on another platform)
+
+1. Run ~docker run --name mlss -p 8888:8888 isakfalk/mlss~, this will start the image
+   we pulled (~isakfalk/mlss~), name is ~mlss~ and forward port 8888 on the
+   image to the port 8888 on our machine.
+2. You should see the following in your terminal
+   [[file:./img/docker_jupyter_notebook.png]]
+   Copy the outlined part (you can do this using the command ~ctrl-shift-c~ in a
+   terminal on Linux at least)
+3. In your browser of choice, do the following: paste the copied part into the
+   browser and prefix it with ~localhost~, like the image below
+   [[file:./img/docker_jupyter_notebook_browser.png]]
+4. Congratulations! It should be working now. You can change the kernel to the tutorial
+   kernel by clicking on the notebook you want to run and then go to the
+   tab *Kernel* and choose *Change kernel*, you will be presented with the
+   available kernels.
+
+*** Removing a running docker container
+When you are done with the jupyter notebook, we need to clean up the container
+as else it will not exit. Do the following to stop the jupyter notebook and
+clean up
+1. Run ~docker container stop mlss~
+2. Run ~docker container rm mlss~
+
+** Conda
+:PROPERTIES:
+:CUSTOM_ID: Conda-heading
+:END:
+
+Some tutorials do not use jupyter notebooks. In this case, make sure you have
+[[https://docs.anaconda.com/anaconda/install/][anaconda]] installed on your machine. Then run the following in a terminal where
+~$TUTORIALS_DIR~ is the path to the git directory of the mlss2019 tutorials that you can
+clone from [[https://github.com/mlss-2019/tutorials][here]] and ~$ENV_NAME.yml~ is the name of the environment yaml file:
+
+#+begin_src bash
+cd $TUTORIALS_DIR/environments/
+conda env create -f $ENV_NAME.yml
+conda activate $ENV_NAME
+#+end_src
+
+You should now be in the conda environment and can run the necessay files (e.g.
+~python tutorial.py~) successfully.
+
+Alternatively, this could be done from the anaconda application directly.
+
+** Tutorials
+*** Deep Learning
+TODO
+*** Optimization
+*** Variational Inference
+Best to run this in colab as you will get access to GPU. Upload the jupyter notebook
+~$TUTORIALS_DIR/VAE/MLSS2019_VAEs_exercise.ipynb~ to [[https://colab.research.google.com/][Google Colab]] and run it
+there.
+
+If you want / need to run it locally, see [[#Docker-heading][Docker]], or go directly to [[#Docker-jupyter-heading][how to run
+jupyter with docker]] if you have already installed and pulled the docker image.
+*** Reinforcement Learning
+See [[#Docker-heading][Docker]], or go directly to [[#Docker-jupyter-heading][how to run jupyter with docker]] if you have already
+installed and pulled the docker image.
+*** Gaussian Processes
+See [[#Docker-heading][Docker]], or go directly to [[#Docker-jupyter-heading][how to run jupyter with docker]] if you have already
+installed and pulled the docker image.
+
+**** ~Lab1 - Sampling a GP.ipynb~
+:PROPERTIES:
+:CUSTOM_ID: GP-lab1-heading
+:END:
+If you find that the first cell
+#+begin_src python
+import numpy as np
+import matplotlib
+matplotlib.rcParams['figure.figsize'] = (14, 6)
+plt = matplotlib.pyplot
+#+end_src
+doesn't work, change this cell to
+#+begin_src python
+import numpy as np
+import matplotlib
+matplotlib.rcParams['figure.figsize'] = (14, 6)
+import matplotlib.pyplot as plt
+#+end_src
+
+**** ~Lab2 - GPflow and GP Regression.ipynb~
+See [[#GP-lab1-heading][Lab1]]
+
+*** Kernels
+TODO
+*** Markov Chain Monte Carlo
+See [[#Conda-heading][Conda]] with ~$ENV_NAME.yml~ set to ~mlss_mcmc.yml~. After activating the
+environment, go to ~$TUTORIALS_DIR/betancourt/~ and then run each tutorial by
+using
+#+begin_src bash
+python $TUTORIAL_NAME.py
+#+end_src
+*** Approximate Bayesian Computation
+TODO
+*** Speech Processing
+TODO
+*** ML in Computational Biology
+TODO
