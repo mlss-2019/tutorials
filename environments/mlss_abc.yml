@@ -1,0 +1,13 @@
+name: mlss_abc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - jupyter
+  - nb_conda
+  
