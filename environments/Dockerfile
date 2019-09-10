@@ -1,5 +1,5 @@
 FROM jupyter/base-notebook
-# I am trying to reduce the size of the container
+
 MAINTAINER Isak Falk (https://isakfalk.com)
 
 # Change to root
@@ -25,18 +25,14 @@ RUN apt-get update && apt-get install -y —no-install-recommends \
     chmod 777 /xvfb.sh && chmod 777 /run.sh && \
     apt-get autoremove && apt-get clean
 
-RUN git clone https://github.com/mlss-2019/tutorials ./tutorials
+RUN git clone https://github.com/isakfalk/mlss-2019/tutorials ./tutorials
 WORKDIR "./tutorials/environments/"
 
-RUN conda env create -f mlss.yml && conda env create -f conda install nb_conda
+RUN conda env create -f mlss.yml && conda install nb_conda
 
 # Install julia
-RUN /opt/conda/envs/mlss_opt/bin/julia -e 'using Pkg; ENV["python"] = "/opt/conda/envs/mlss_opt/bin/python"; Pkg.add("Distributions"); Pkg.add("SpecialFunctions"); Pkg.add("PyPlot");' \
-    && /opt/conda/envs/mlss_opt/bin/julia -e "using Distributions; using SpecialFunctions; using PyPlot"
-
-WORKDIR ".."
-
-ENTRYPOINT ["sh", "/run.sh"]
+RUN /opt/conda/envs/mlss/bin/julia -e 'using Pkg; ENV["python"] = "/opt/conda/envs/mlss/bin/python"; Pkg.add("Distributions"); Pkg.add("SpecialFunctions"); Pkg.add("PyPlot"); Pkg.add("IJulia")' \
+    && /opt/conda/envs/mlss/bin/julia -e "using Distributions; using SpecialFunctions; using PyPlot'
 
 WORKDIR ".."
 ENTRYPOINT ["sh", "/run.sh"]
