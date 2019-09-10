@@ -1,11 +1,4 @@
 ############################################################
-# Copyright 2019 Michael Betancourt
-# Licensed under the new BSD (3-clause) license:
-#
-# https://opensource.org/licenses/BSD-3-Clause
-############################################################
-
-############################################################
 #
 # Initial setup
 #
@@ -55,7 +48,7 @@ def compute_mcmc_stats(x, L = 20):
   
   # First we transform our autocovariances into Geyer's initial positive sequence
   max_s = 1
-  for s in [ 2 * i + 1 for i in range((L - 1) / 2) ]:
+  for s in [ 2 * i + 1 for i in range(int((L - 1) / 2)) ]:
     rho_hat_even = acov[s + 1] / var
     rho_hat_odd = acov[s + 2] / var;
     
@@ -68,7 +61,7 @@ def compute_mcmc_stats(x, L = 20):
       break
   
   # Then we transform this output into Geyer's initial monotone sequence
-  for s in [ 2 * i + 3 for i in range((max_s - 2)/ 2) ]:
+  for s in [ 2 * i + 3 for i in range(int((max_s - 2)/ 2)) ]:
     if rho_hat_s[s + 1] + rho_hat_s[s + 2] > rho_hat_s[s - 1] + rho_hat_s[s]:
       rho_hat_s[s + 1] = 0.5 * (rho_hat_s[s - 1] + rho_hat_s[s])
       rho_hat_s[s + 2] = rho_hat_s[s + 1]
@@ -346,7 +339,7 @@ for n in range(1, N):
     sum_metro_prob += min(1, math.exp(H0 - H))
     
     u = stats.uniform.rvs(0, 1)
-    if math.exp(log_weight - log_sum_weight):
+    if u < math.exp(log_weight - log_sum_weight):
       q_propose = q
     
   # Forwards evolution

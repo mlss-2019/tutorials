@@ -1,11 +1,4 @@
 ############################################################
-# Copyright 2019 Michael Betancourt
-# Licensed under the new BSD (3-clause) license:
-#
-# https://opensource.org/licenses/BSD-3-Clause
-############################################################
-
-############################################################
 #
 # Initial setup
 #
@@ -83,7 +76,7 @@ for D in Ds:
     
     # Sample a new point one dimension at a time
     for d in range(D):
-      x_d = stats.uniform.rvs(-3, 3, size=1)
+      x_d = stats.uniform.rvs(-3, 6, size=1)
       
       # If the component of the point in the current
       # dimension is not contained within the central
@@ -140,7 +133,7 @@ for D in Ds:
   
   for n in range(N):
     # Sample a new point
-    x = stats.uniform.rvs(-3, 3, size=D)
+    x = stats.uniform.rvs(-3, 6, size=D)
     
     # Compute distance from origin
     r = math.sqrt(sum([ x_d**2 for x_d in x]))
@@ -211,8 +204,8 @@ for D in Ds:
   
   for n in range(N):
     # Sample two points
-    x1 = stats.uniform.rvs(-3, 3, size=D)
-    x2 = stats.uniform.rvs(-3, 3, size=D)
+    x1 = stats.uniform.rvs(-3, 6, size=D)
+    x2 = stats.uniform.rvs(-3, 6, size=D)
     
     # Compute distance between them
     delta_samples[n] = math.sqrt(sum([ (x1[d] - x2[d])**2 for d in range(D)]))
@@ -234,7 +227,7 @@ plot.plot(plot_Ds, [ delta_means[idx] for idx in idxs], color=dark)
 
 plot.gca().set_xlim([plot_Ds[0], plot_Ds[-1]])
 plot.gca().set_xlabel("Dimension")
-plot.gca().set_ylim([0, 5])
+plot.gca().set_ylim([0, 10])
 plot.gca().set_ylabel("Average Distance Between Points")
 
 plot.show()
@@ -260,7 +253,7 @@ plot.plot(plot_Ds, [ delta_quantiles[idx][4] for idx in idxs ], color=dark)
                   
 plot.gca().set_xlim([plot_Ds[0], plot_Ds[-1]])
 plot.gca().set_xlabel("Dimension")
-plot.gca().set_ylim([0, 5])
+plot.gca().set_ylim([0, 10])
 plot.gca().set_ylabel("Distance Between Points")
 
 plot.show()
@@ -407,7 +400,3 @@ plot.gca().set_ylim([0, 0.7])
 plot.gca().set_ylabel("Inclusion Probability")
 
 plot.show()
-
-# Done early?  Can you derive this probability analytically?
-# Hint: convert to spherical coordinates and marginalize out
-# the hyperspherical angles
