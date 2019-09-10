@@ -3,11 +3,11 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - matplotlib
+  - numpy
   - chainer
   - opencv-python
   - gym
-  - matplotlib
-  - numpy
   - pip
   - pip:
     - minerl
