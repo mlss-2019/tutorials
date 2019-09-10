@@ -1,0 +1,32 @@
+name: mlss
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scikit-learn
+  - scikit-image
+  - tqdm
+  - tensorflow
+  - pytorch
+  - torchvision
+  - jupyter
+  - nb_conda
+  - pip
+  - pip:
+      - chainer
+      - opencv-python
+      - minerl
+      - gpflow
+      - gym
+      - torchtext
+      - soundfile
+      - editdistance
+      - tensorflow-probability
+      - tensorflow-datasets
