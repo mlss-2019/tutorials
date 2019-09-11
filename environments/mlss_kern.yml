@@ -1,0 +1,15 @@
+name: mlss_kern
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - ipywidgets
+  - nb_conda
+  - jupyter_contrib_nbextensions
