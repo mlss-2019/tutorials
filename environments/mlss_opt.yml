@@ -1,6 +1,0 @@
-name: mlss_opt
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  
