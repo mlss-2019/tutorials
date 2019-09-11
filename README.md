@@ -1,29 +1,29 @@
 
 # Table of Contents
 
-1.  [README](#org46bde8c)
-    1.  [How to read this README](#org76d2f4c)
+1.  [README](#orgfa9d5a5)
+    1.  [How to read this README](#org81af479)
     2.  [Docker](#Docker-heading)
-        1.  [Install Docker](#org4aa609c)
-        2.  [Pull MLSS docker image](#orgc33265f)
+        1.  [Install Docker](#orgaafd995)
+        2.  [Pull MLSS docker image](#orgdb20e12)
         3.  [Run docker image with Jupyter](#Docker-jupyter-heading)
-        4.  [Removing a running docker container](#org2fbe762)
+        4.  [Removing a running docker container](#org4da5712)
     3.  [Conda](#Conda-heading)
-    4.  [Tutorials](#orgc3929f7)
-        1.  [Deep Learning](#org22ffcb7)
-        2.  [Optimization](#org294e330)
-        3.  [Variational Inference](#org5f98eca)
-        4.  [Reinforcement Learning](#orgb54c174)
-        5.  [Gaussian Processes](#org09a591d)
-        6.  [Kernels](#orga0e6857)
-        7.  [Markov Chain Monte Carlo](#org50e0f6b)
-        8.  [Approximate Bayesian Computation](#org36b760c)
-        9.  [Speech Processing](#org95fe76a)
-        10. [ML in Computational Biology](#org7236865)
-        11. [Submodularity](#org964b5ee)
+    4.  [Colab](#Colab-heading)
+    5.  [Tutorials](#orgfdb39c2)
+        1.  [Deep Learning](#org954a1a5)
+        2.  [Optimization](#org02b5d94)
+        3.  [Variational Inference](#orgfd53fe4)
+        4.  [Reinforcement Learning](#org4281e0f)
+        5.  [Gaussian Processes](#orga1f903b)
+        6.  [Kernels](#orgcfb6d67)
+        7.  [Markov Chain Monte Carlo](#org2e011ff)
+        8.  [Approximate Bayesian Computation](#org053d7e0)
+        9.  [Speech Processing](#org7f02dbd)
+        10. [ML in Computational Biology](#org60599e6)
 
 
-<a id="org46bde8c"></a>
+<a id="orgfa9d5a5"></a>
 
 # README
 
@@ -49,7 +49,7 @@ technical issues to minimum.
 This means we will get more time for the actual content!
 
 
-<a id="org76d2f4c"></a>
+<a id="org81af479"></a>
 
 ## How to read this README
 
@@ -70,7 +70,7 @@ tutorials which you will be access through `localhost:8888` in your browser
 after you follow the guide below.
 
 
-<a id="org4aa609c"></a>
+<a id="orgaafd995"></a>
 
 ### Install Docker
 
@@ -98,7 +98,7 @@ channel or ping me (@Isak Falk) anywhere on the MLSS2019 Slack :)
         on your system)
 
 
-<a id="orgc33265f"></a>
+<a id="orgdb20e12"></a>
 
 ### Pull MLSS docker image
 
@@ -109,7 +109,7 @@ Run the following in a terminal
     docker pull isakfalk/mlss:latest
 
 This will make the image available to you on your system. The image is a bit
-large (3gb compressed, 7gb uncompressed), this is normal, don't worry about it.
+large (about 3gb compressed, 8gb uncompressed), this is normal, don't worry about it.
 
 
 <a id="Docker-jupyter-heading"></a>
@@ -135,7 +135,7 @@ how I do it on Linux, let me know if we need to do it another way on another pla
     available kernels.
 
 
-<a id="org2fbe762"></a>
+<a id="org4da5712"></a>
 
 ### Removing a running docker container
 
@@ -166,81 +166,61 @@ You should now be in the conda environment and can run the necessay files (e.g.
 Alternatively, this could be done from the anaconda application directly.
 
 
-<a id="orgc3929f7"></a>
+<a id="Colab-heading"></a>
+
+## Colab
+
+[Google Colab](https://colab.research.google.com/) is like an online jupyter notebook that gives you access to some
+common python deep learning libraries and datasets together with a GPU. It's
+very good for running deep learning models which would be unfeasable on a CPU.
+
+To run a tutorial on colab, do the following
+
+1.  At the [starting page](https://colab.research.google.com/) pick **UPLOAD** and then upload the tutorial notebook from
+    your computer
+2.  To use a GPU, after loading the notebook into colab, pick **Runtime** ->
+    **Change runtime type** -> **Hardware Accelerator** -> **GPU**.
+3.  Run the notebook as you would normally
+
+
+<a id="orgfdb39c2"></a>
 
 ## Tutorials
 
 
-<a id="org22ffcb7"></a>
+<a id="org954a1a5"></a>
 
 ### Deep Learning
 
-#### Colab
-Running the notebooks in [colab](https://colab.research.google.com/) gives you access to GPU which will be good to have. They run out of the box since the colab has all the needed libraries pre-installed.
+See [Colab](#Colab-heading). Note that the 5th notebook cannot run on Colab since it does not have
+the necessary libraries to display to a screen. If you want to run this, you can
+set up a conda environment with the necessary libraries imported in the notebook.
 
-#### Docker
-See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already installed and pulled the docker image.
 
-**NOTE**: the docker image is getting very big. I have provided a new image which you can pull using `docker pull isakfalk/mlss_dl` and then follow the guide as before.
-
-<a id="org294e330"></a>
+<a id="org02b5d94"></a>
 
 ### Optimization
 
-#### Docker
 See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already
-installed and pulled the docker image.
+installed and pulled the docker image. Note that you should pick the `Julia` kernel and not the `mlss` one.
 
-There will be a kernel called `Julia 1.1.1` which you will have to choose.
 
-#### Locally
-
-To run the Optimization notebooks, you'll need to install
-[Julia](https://julialang.org/) (to run locally). An easy guide to follow can be found [here](https://datatofish.com/add-julia-to-jupyter/). You'll need to have a recent
-version of Python installed (3.x), and it's easiest if this is from
-the Anaconda distribution. I'll assume you have this.
-
-For Julia, you'll need to install some packages as well to run things.
-From a Julia terminal, execute the following code:
-```julia
-using Pkg
-Pkg.add("Distributions");
-Pkg.add("SpecialFunctions");
-Pkg.add("PyPlot");
-```
-
-<a id="org5f98eca"></a>
+<a id="orgfd53fe4"></a>
 
 ### Variational Inference
 
-Best to run this in colab as you will get access to GPU. Upload the jupyter notebook
-`$TUTORIALS_DIR/VAE/MLSS2019_VAEs_exercise.ipynb` to [Google Colab](https://colab.research.google.com/) and run it
-there.
-
-If you want / need to run it locally, see [Docker](#Docker-heading), or go directly to [how to run
-jupyter with docker](#Docker-jupyter-heading) if you have already installed and pulled the docker image.
+See [Colab](#Colab-heading).
 
 
-<a id="orgb54c174"></a>
+<a id="org4281e0f"></a>
 
 ### Reinforcement Learning
 
 See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already
 installed and pulled the docker image.
 
-If you are using docker, don't run the following cells
-```python
-# install required packages
-!pip install --upgrade chainer opencv-python gym matplotlib==3.0.3 numpy
-```
 
-```python
-# uncomment to install minerl
-!pip install --upgrade minerl
-```
-since the conda kernel already has these packages installed.
-
-<a id="org09a591d"></a>
+<a id="orga1f903b"></a>
 
 ### Gaussian Processes
 
@@ -268,14 +248,16 @@ installed and pulled the docker image.
     See [Lab1](#GP-lab1-heading)
 
 
-<a id="orga0e6857"></a>
+<a id="orgcfb6d67"></a>
 
 ### Kernels
 
-TODO
+See [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_kern.yml`. After activating the
+environment, go to `$TUTORIALS_DIR/kernels/` and then run the notebook `Tutorial
+Kernel.ipynb` by running `jupyter notebook Tutorial\ Kernel.ipynb`.
 
 
-<a id="org50e0f6b"></a>
+<a id="org2e011ff"></a>
 
 ### Markov Chain Monte Carlo
 
@@ -286,39 +268,27 @@ using
     python $TUTORIAL_NAME.py
 
 
-<a id="org36b760c"></a>
+<a id="org053d7e0"></a>
 
 ### Approximate Bayesian Computation
 
-#### Locally
+See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already
+installed and pulled the docker image.
 
-Install `scipy`, `matplotlib` and `tqdm` via `conda`/`pip`. Then run `jupyter notebook` and launch `abc_filippi/ABC.ipynb`.
 
-#### Colab
-
-Import `abc_filippi/ABC.ipynb` either from your local copy or the GitHub repository.
-
-<a id="org95fe76a"></a>
+<a id="org7f02dbd"></a>
 
 ### Speech Processing
 
-#### Locally
+See [Docker](#Docker-heading), or go directly to [how to run jupyter with docker](#Docker-jupyter-heading) if you have already
+installed and pulled the docker image.
 
-Install `simplejson` and `pytorch` via `conda`/`pip` and `editdistance` and `soundfile` via pip. Then run `jupyter notebook` and launch `speech/tutorial.ipynb`.
+You can also run this in [Colab](#Colab-heading).
 
-#### Colab
 
-Import `speech/tutorial.ipynb` either from your local copy or the GitHub repository.
+<a id="org60599e6"></a>
 
-<a id="org964b5ee"></a>
+### ML in Computational Biology
 
-### Submodularity
-The tutorial is in `$TUTORIALS_DIR/submodular/submodular-opt.ipynb` and should work in [Colab](https://colab.research.google.com/) out of the box.
-Alternatively, you can set up [Conda](#Conda-heading) with `$ENV_NAME.yml` set to `mlss_submod.yml`. 
-After activating the Conda environment, ensure jupyter can access the environment by running
-```
-python -m ipykernel install --user --name mlss_submod --display-name "Python (mlss_submod)"
-```
-Then, launch the notebook via `jupyter notebook` and open the tutorial.
+There is no tutorial for the ML in computational biology, look at the slides instead.
 
-TODO: can we add this to the docker image?
