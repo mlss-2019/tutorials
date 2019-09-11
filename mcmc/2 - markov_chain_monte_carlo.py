@@ -1,11 +1,4 @@
 ############################################################
-# Copyright 2019 Michael Betancourt
-# Licensed under the new BSD (3-clause) license:
-#
-# https://opensource.org/licenses/BSD-3-Clause
-############################################################
-
-############################################################
 #
 # Initial setup
 #
@@ -55,7 +48,7 @@ def compute_mcmc_stats(x, L = 20):
   
   # First we transform our autocovariances into Geyer's initial positive sequence
   max_s = 1
-  for s in [ 2 * i + 1 for i in range((L - 1) / 2) ]:
+  for s in [ 2 * i + 1 for i in range(int((L - 1) / 2)) ]:
     rho_hat_even = acov[s + 1] / var
     rho_hat_odd = acov[s + 2] / var;
     
@@ -68,7 +61,7 @@ def compute_mcmc_stats(x, L = 20):
       break
   
   # Then we transform this output into Geyer's initial monotone sequence
-  for s in [ 2 * i + 3 for i in range((max_s - 2)/ 2) ]:
+  for s in [ 2 * i + 3 for i in range(int((max_s - 2)/ 2)) ]:
     if rho_hat_s[s + 1] + rho_hat_s[s + 2] > rho_hat_s[s - 1] + rho_hat_s[s]:
       rho_hat_s[s + 1] = 0.5 * (rho_hat_s[s - 1] + rho_hat_s[s])
       rho_hat_s[s + 2] = rho_hat_s[s + 1]
@@ -145,9 +138,9 @@ compute_mcmc_stats([ s[1] for s in mcmc_samples[100:] ])
 
 # Plot convergence of MCMC estimators for each parameter
 stride = 250
-M = N / stride
+M = int(N / stride)
 
-iters = [ stride * (i + 1) for i in range(N / stride) ]
+iters = [ stride * (i + 1) for i in range(M) ]
 
 x1_mean = [0] * M 
 x1_se = [0] * M
@@ -254,9 +247,9 @@ compute_mcmc_stats([ s[2] for s in mcmc_samples[100:] ])
 
 # Plot convergence of MCMC estimators for each parameter
 stride = 250
-M = N / stride
+M = int(N / stride)
 
-iters = [ stride * (i + 1) for i in range(N / stride) ]
+iters = [ stride * (i + 1) for i in range(M) ]
 
 mu_mean = [0] * M 
 mu_se = [0] * M
@@ -391,6 +384,7 @@ axarr[1].set_xlabel("Dimension")
 axarr[1].set_ylim([0, 0.3])
 axarr[1].set_ylabel("Average Effective Sample Size Per Iteration")
 
+plot.subplots_adjust(wspace=0.5)
 plot.show()
 
 ############################################################
@@ -473,4 +467,5 @@ axarr[1].set_xlabel("Dimension")
 axarr[1].set_ylim([0, 0.3])
 axarr[1].set_ylabel("Average Effective Sample Size Per Iteration")
 
+plot.subplots_adjust(wspace=0.5)
 plot.show()
