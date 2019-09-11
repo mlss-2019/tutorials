@@ -27,6 +27,6 @@ dependencies:
       - gym
       - torchtext
       - soundfile
+      - simplejson
       - editdistance
-      - tensorflow-probability
-      - tensorflow-datasets
+      
