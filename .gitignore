@@ -104,3 +104,11 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+# IDEs
+.vscode
+.idea
+
+# stsan and outputs
+*.pkl
+.data.R

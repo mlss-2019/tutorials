@@ -9,6 +9,7 @@ import pystan
 import pickle
 import numpy
 
+
 def check_div(fit, quiet=False):
     """Check transitions that ended with a divergence"""
     sampler_params = fit.get_sampler_params(inc_warmup=False)
@@ -17,8 +18,7 @@ def check_div(fit, quiet=False):
     N = len(divergent)
 
     if not quiet:
-        print('{} of {} iterations ended with a divergence ({}%)'.format(n, N,
-            100 * n / N))
+        print('{} of {} iterations ended with a divergence ({}%)'.format(n, N, 100 * n / N))
 
     if n > 0:
         if not quiet:
@@ -29,7 +29,8 @@ def check_div(fit, quiet=False):
         if quiet:
             return True
 
-def check_treedepth(fit, max_treedepth = 10, quiet=False):
+
+def check_treedepth(fit, max_treedepth=10, quiet=False):
     """Check transitions that ended prematurely due to maximum tree depth limit"""
     sampler_params = fit.get_sampler_params(inc_warmup=False)
     depths = [x for y in sampler_params for x in y['treedepth__']]
@@ -47,6 +48,7 @@ def check_treedepth(fit, max_treedepth = 10, quiet=False):
     else:
         if quiet:
             return True
+
 
 def check_energy(fit, quiet=False):
     """Checks the energy fraction of missing information (E-FMI)"""
@@ -72,6 +74,7 @@ def check_energy(fit, quiet=False):
         else:
             return False
 
+
 def check_n_eff(fit, quiet=False):
     """Checks the effective sample size per iteration"""
     fit_summary = fit.summary(probs=[0.5])
@@ -82,7 +85,7 @@ def check_n_eff(fit, quiet=False):
     no_warning = True
     for n_eff, name in zip(n_effs, names):
         ratio = n_eff / n_iter
-        if (ratio < 0.001):
+        if ratio < 0.001:
             if not quiet:
                 print('n_eff / iter for parameter {} is {}!'.format(name, ratio))
             no_warning = False
@@ -98,6 +101,7 @@ def check_n_eff(fit, quiet=False):
         else:
             return False
 
+
 def check_rhat(fit, quiet=False):
     """Checks the potential scale reduction factors"""
     from math import isnan
@@ -109,7 +113,7 @@ def check_rhat(fit, quiet=False):
 
     no_warning = True
     for rhat, name in zip(rhats, names):
-        if (rhat > 1.1 or isnan(rhat) or isinf(rhat)):
+        if rhat > 1.1 or isnan(rhat) or isinf(rhat):
             if not quiet:
                 print('Rhat for parameter {} is {}!'.format(name, rhat))
             no_warning = False
@@ -124,14 +128,15 @@ def check_rhat(fit, quiet=False):
         else:
             return False
 
-def check_all_diagnostics(fit, max_treedepth = 10, quiet=False):
+
+def check_all_diagnostics(fit, max_treedepth=10, quiet=False):
     """Checks all MCMC diagnostics"""
 
     if not quiet:
         check_n_eff(fit)
         check_rhat(fit)
         check_div(fit)
-        check_treedepth(fit, max_treedepth = max_treedepth)
+        check_treedepth(fit, max_treedepth=max_treedepth)
         check_energy(fit)
     else:
         warning_code = 0
@@ -149,6 +154,7 @@ def check_all_diagnostics(fit, max_treedepth = 10, quiet=False):
 
         return warning_code
 
+
 def parse_warning_code(warning_code):
     """Parses warning code into individual failures"""
     if warning_code & (1 << 0):
@@ -162,6 +168,7 @@ def parse_warning_code(warning_code):
     if warning_code & (1 << 4):
         print("energy warning")
 
+
 def _by_chain(unpermuted_extraction):
     num_chains = len(unpermuted_extraction[0])
     result = [[] for _ in range(num_chains)]
@@ -170,19 +177,21 @@ def _by_chain(unpermuted_extraction):
             result[c].append(unpermuted_extraction[i][c])
     return numpy.array(result)
 
+
 def _shaped_ordered_params(fit):
-    ef = fit.extract(permuted=False, inc_warmup=False) # flattened, unpermuted, by (iteration, chain)
+    ef = fit.extract(permuted=False, inc_warmup=False)  # flattened, unpermuted, by (iteration, chain)
     ef = _by_chain(ef)
     ef = ef.reshape(-1, len(ef[0][0]))
-    ef = ef[:, 0:len(fit.flatnames)] # drop lp__
+    ef = ef[:, 0:len(fit.flatnames)]  # drop lp__
     shaped = {}
     idx = 0
     for dim, param_name in zip(fit.par_dims, fit.extract().keys()):
         length = int(numpy.prod(dim))
-        shaped[param_name] = ef[:,idx:idx + length]
+        shaped[param_name] = ef[:, idx:idx + length]
         shaped[param_name].reshape(*([-1] + dim))
         idx += length
     return shaped
+
 
 def partition_div(fit):
     """ Returns parameter arrays separated into divergent and non-divergent transitions"""
@@ -194,7 +203,8 @@ def partition_div(fit):
     div_params = dict((key, params[key][div == 1]) for key in params)
     return nondiv_params, div_params
 
-def compile_model(filename, model_name=None, **kwargs):
+
+def compile_model(filename, model_name=None):
     """This will automatically cache models - great if you're just running a
     script on the command line.
 
@@ -212,8 +222,8 @@ def compile_model(filename, model_name=None, **kwargs):
             sm = pickle.load(open(cache_fn, 'rb'))
         except:
             sm = pystan.StanModel(model_code=model_code)
-            with open(cache_fn, 'wb') as f:
-                pickle.dump(sm, f)
+            with open(cache_fn, 'wb') as f1:
+                pickle.dump(sm, f1)
         else:
             print("Using cached StanModel")
         return sm
